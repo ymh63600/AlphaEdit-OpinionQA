@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 import json
 import shutil
 from itertools import islice
@@ -19,10 +19,12 @@ from dsets import (
     MQUAKEDataset,
     get_tfidf_vectorizer,
     KnownsDataset,
+    OpinionQADataset
 )
 from experiments.py.eval_utils_counterfact import compute_rewrite_quality_counterfact
 from experiments.py.eval_utils_zsre import compute_rewrite_quality_zsre
 from experiments.py.eval_utils_mquake import compute_rewrite_quality_mquake
+from experiments.py.eval_utils_opinionqa import compute_rewrite_quality_opinionqa
 from memit import MEMITHyperParams
 from memit.compute_z import get_module_input_output_at_words, compute_z
 from memit.memit_main import apply_memit_to_model, get_context_templates
@@ -53,6 +55,7 @@ DS_DICT = {
     "cf": (CounterFactDataset, compute_rewrite_quality_counterfact),
     "zsre": (MENDQADataset, compute_rewrite_quality_zsre),
     "mquake": (MQUAKEDataset, compute_rewrite_quality_mquake),
+    "opinionqa": (OpinionQADataset, compute_rewrite_quality_opinionqa)
 }
 
 
@@ -115,7 +118,8 @@ def main(
     # Instantiate vanilla model
     if type(model_name) is str:
         print("Instantiating model")
-        model = AutoModelForCausalLM.from_pretrained(model_name).cuda()
+        # model = AutoModelForCausalLM.from_pretrained(model_name).cuda()
+        model = AutoModelForCausalLM.from_pretrained(model_name,device_map="auto",low_cpu_mem_usage=True)
         tok = AutoTokenizer.from_pretrained(model_name)
         tok.pad_token = tok.eos_token
     else:
@@ -198,7 +202,7 @@ def main(
             cache_c = torch.zeros((len(hparams.layers), W_out.shape[0], W_out.shape[0]), device="cpu")
             if alg_name == "AlphaEdit":
                 P = torch.zeros((len(hparams.layers), W_out.shape[0], W_out.shape[0]), device="cpu")
-        elif hparams.model_name in ["EleutherAI_gpt-j-6B","Llama3-8B","phi-1.5"]:
+        elif hparams.model_name in ["EleutherAI_gpt-j-6B","Llama3-8B","phi-1.5", "Llama3.1-8B", "Qwen3.5-9B", "DeepSeek-R1-Distill-Qwen-7B","Olmo-3-7B-Instruct"]:
             cache_c = torch.zeros((len(hparams.layers), W_out.shape[1], W_out.shape[1]), device="cpu")
             if alg_name == "AlphaEdit":
                 P = torch.zeros((len(hparams.layers), W_out.shape[1], W_out.shape[1]), device="cpu")
@@ -423,6 +427,28 @@ def main(
         #         nethook.get_parameter(model, k)[...] = v.to("cuda")
 
         print("Evaluation took", time() - start)
+
+
+        deltas = {}
+    # save edited layers
+    target_layers = hparams.layers 
+    module_tmp = hparams.rewrite_module_tmp
+    
+    print(f"--- Extracting delta weights for layers: {target_layers} ---")
+    
+    with torch.no_grad():
+        for layer_num in target_layers:
+            
+            layer_name = f"{module_tmp.format(layer_num)}.weight"
+            
+            current_weight = nethook.get_parameter(model, layer_name)
+            deltas[layer_name] = current_weight.cpu() 
+
+    delta_path = run_dir / "model_delta.pt"
+    torch.save(deltas, delta_path)
+    print(f"--- Delta weights saved to {delta_path} (Size: < 500MB typical) ---")
+    print("fin")
+
 def get_project(model, tok, layer, hparams):
     force_recompute = False
     cov = get_cov(
@@ -487,7 +513,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--ds_name",
-        choices=["mcf", "cf", "zsre", "mquake"],
+        choices=["mcf", "cf", "zsre", "mquake", "opinionqa"],
         default="mcf",
         help="Dataset to perform evaluations on. Either CounterFact (cf), MultiCounterFact (mcf), or zsRE (zsre).",
     )
