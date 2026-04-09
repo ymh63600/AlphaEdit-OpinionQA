@@ -1,0 +1,811 @@
+Diff_Column,Unique_Values_Count,Total_People_In_Group,Member_IDs,Member_Values,AGE,SEX,EDUCATION,CITIZEN,MARITAL,RELIG,RELIGATTEND,POLPARTY,INCOME,POLIDEOLOGY,RACE,CREGION
+CREGION,2,2,"201701607480, 201801007785","West, Northeast",18-29,Female,College graduate/some postgrad,Yes,Living with a partner,Nothing in particular,Never,Democrat,"Less than $30,000",Very liberal,White,
+CREGION,2,4,"278114, 201801045534, 201801116774, 201801158874","Midwest, South, South, South",18-29,Female,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"201801005705, 201801142786","West, Midwest",18-29,Female,College graduate/some postgrad,Yes,Never been married,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,2,"201801062381, 201801069017","Northeast, South",18-29,Female,High school graduate,Yes,Living with a partner,Nothing in particular,Never,Independent,"$30,000-$50,000",Moderate,White,
+CREGION,2,2,"201801080264, 201801145066","Northeast, Midwest",18-29,Female,Postgraduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,2,"201801067366, 201801108660","Midwest, South",18-29,Male,College graduate/some postgrad,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"201701256892, 201801081441","Midwest, Northeast",18-29,Male,College graduate/some postgrad,Yes,Never been married,Nothing in particular,Never,Democrat,"$100,000 or more",Very liberal,White,
+CREGION,2,2,"201501685645, 201701701371","West, Midwest",18-29,Male,High school graduate,Yes,Never been married,Atheist,Never,Other,"$30,000-$50,000",Moderate,White,
+CREGION,2,2,"647050, 201801090158","South, Northeast",18-29,Male,High school graduate,Yes,Never been married,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,
+CREGION,2,2,"201501611142, 201801164606","Midwest, West",30-49,Female,College graduate/some postgrad,Yes,Married,Atheist,Never,Independent,"$100,000 or more",Liberal,White,
+CREGION,2,2,"201801045451, 201801128311","South, Midwest",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,
+CREGION,2,2,"718806, 201801069447","Northeast, South",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,Seldom,Democrat,"$100,000 or more",Moderate,White,
+CREGION,2,2,"201501620911, 201801084739","Midwest, Northeast",30-49,Female,High school graduate,Yes,Living with a partner,Nothing in particular,Never,Republican,"$30,000-$50,000",Conservative,White,
+CREGION,2,2,"201801071199, 201801098386","West, South",30-49,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,"$100,000 or more",Conservative,White,
+CREGION,2,2,"135822, 201801131100","Northeast, Midwest",30-49,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",Very conservative,White,
+CREGION,2,2,"201501208389, 201501626010","Northeast, South",30-49,Female,High school graduate,Yes,Married,Protestant,Never,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,3,"201501170138, 201801043289, 201801047252","West, South, South",30-49,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,
+CREGION,2,2,"201801087258, 201801101686","Northeast, South",30-49,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Liberal,White,
+CREGION,3,3,"674254, 201801016848, 201801087528","South, Midwest, Northeast",30-49,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,
+CREGION,2,2,"279742, 628369","South, West",30-49,Female,Postgraduate,Yes,Married,Protestant,A few times a year,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,3,"201501603147, 201801052505, 201801148765","South, South, Midwest",30-49,Female,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,Black,
+CREGION,2,2,"201501226086, 201801117083","Northeast, South",30-49,Female,Postgraduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Moderate,White,
+CREGION,2,2,"633721, 201801180616","South, West",30-49,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,"$100,000 or more",Conservative,White,
+CREGION,2,2,"201801008363, 201801177657","Northeast, West",30-49,Male,College graduate/some postgrad,Yes,Never been married,Nothing in particular,Seldom,Independent,"$100,000 or more",Moderate,White,
+CREGION,2,2,"201801017060, 201801099390","Midwest, South",30-49,Male,Postgraduate,Yes,Married,Nothing in particular,Seldom,Independent,"$100,000 or more",Moderate,White,
+CREGION,2,2,"101472, 201801147290","South, Midwest",30-49,Male,Postgraduate,Yes,Married,Roman Catholic,Seldom,Independent,"$100,000 or more",Moderate,White,
+CREGION,2,2,"201501686761, 201801011030","West, South",30-49,Male,"Some college, no degree",Yes,Married,Roman Catholic,A few times a year,Other,"$100,000 or more",Moderate,White,
+CREGION,2,2,"201801104772, 201801142587","South, Midwest",50-64,Female,College graduate/some postgrad,Yes,Married,Agnostic,Never,Democrat,"$100,000 or more",Moderate,White,
+CREGION,2,2,"201801065708, 201801084120","Midwest, Northeast",50-64,Female,College graduate/some postgrad,Yes,Married,Jewish,Seldom,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,2,"114970, 201801022661","West, South",50-64,Female,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,3,"654114, 201801095960, 201801133702","Midwest, South, Midwest",50-64,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",Conservative,White,
+CREGION,2,2,"201801071206, 201801137989","West, Midwest",50-64,Female,High school graduate,Yes,Married,Nothing in particular,Never,Democrat,"$50,000-$75,000",Very conservative,White,
+CREGION,2,2,"653961, 201801154866","West, South",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"319402, 201801066773","Northeast, Midwest",50-64,Female,High school graduate,Yes,Married,Protestant,Never,Independent,"$30,000-$50,000",Moderate,White,
+CREGION,2,3,"201801089841, 201801090901, 201801110176","Northeast, Northeast, South",50-64,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"201801119741, 201801166426","South, West",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"128558, 301013","South, Midwest",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,
+CREGION,2,2,"201801089527, 201801142113","Northeast, West",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"Less than $30,000",Conservative,White,
+CREGION,2,2,"651381, 201701277969","West, Northeast",50-64,Female,High school graduate,Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,White,
+CREGION,2,3,"201801094759, 201801186905, 201801188508","South, West, West",50-64,Female,Postgraduate,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,2,"201801061072, 201801135074","Northeast, Midwest",50-64,Female,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Very liberal,White,
+CREGION,2,2,"201701691053, 201801150614","Northeast, Midwest",50-64,Female,Postgraduate,Yes,Never been married,Nothing in particular,Never,Democrat,"$50,000-$75,000",Liberal,White,
+CREGION,2,3,"201801057976, 201801067930, 201801137781","South, Midwest, Midwest",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Very conservative,White,
+CREGION,2,2,"201801056019, 201801075254","Midwest, Northeast",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$75,000-$100,000",Conservative,White,
+CREGION,2,2,"637228, 201801182891","Northeast, West",50-64,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,Seldom,Independent,"$75,000-$100,000",Moderate,White,
+CREGION,2,2,"201801065587, 201801091024","Midwest, Northeast",50-64,Male,High school graduate,Yes,Married,Nothing in particular,Never,Republican,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"201701261721, 201801116588","Midwest, South",50-64,Male,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$75,000-$100,000",Very conservative,White,
+CREGION,2,2,"702342, 201801184135","Midwest, West",50-64,Male,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Very conservative,White,
+CREGION,3,3,"201501738561, 201801123094, 201801129454","West, South, Midwest",50-64,Male,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,
+CREGION,2,2,"314393, 702872","Midwest, Northeast",50-64,Male,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,
+CREGION,2,2,"201501661283, 201801135091","Northeast, Midwest",50-64,Male,Postgraduate,Yes,Married,Protestant,Never,Independent,"$100,000 or more",Moderate,White,
+CREGION,2,2,"201801164085, 201801189182","South, West",50-64,Male,Postgraduate,Yes,Married,Protestant,Seldom,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,3,"657694, 201701219100, 201801157504","Northeast, Northeast, South",50-64,Male,Postgraduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Moderate,White,
+CREGION,2,2,"637156, 201801106036","West, South",50-64,Male,"Some college, no degree",Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,
+CREGION,2,2,"300207, 201701703253","Midwest, South",65+,Female,College graduate/some postgrad,Yes,Widowed,Protestant,Once a week,Democrat,"$30,000-$50,000",Liberal,White,
+CREGION,2,2,"201801088555, 201801151447","Northeast, Midwest",65+,Female,High school graduate,Yes,Divorced,Protestant,A few times a year,Democrat,"Less than $30,000",Liberal,White,
+CREGION,2,3,"302389, 201501134096, 201501211025","Midwest, Midwest, South",65+,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,
+CREGION,2,2,"131708, 201801185994","Midwest, West",65+,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$30,000-$50,000",Moderate,White,
+CREGION,3,3,"189053, 201701730879, 201801159040","Midwest, West, South",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,
+CREGION,2,2,"303338, 201801137120","West, Midwest",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",Moderate,White,
+CREGION,2,2,"188245, 201801088584","South, Northeast",65+,Female,High school graduate,Yes,Widowed,Roman Catholic,Once a week,Democrat,"$30,000-$50,000",Moderate,White,
+CREGION,2,2,"118847, 201501651871","Midwest, South",65+,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,
+CREGION,2,2,"695859, 201801161385","Northeast, South",65+,Female,"Some college, no degree",Yes,Divorced,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,
+CREGION,2,2,"201501280504, 201801156839","Midwest, South",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,"$100,000 or more",Moderate,White,
+CREGION,2,2,"114797, 613271","Northeast, South",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,"$75,000-$100,000",Moderate,White,
+CREGION,2,2,"201501611961, 201801104051","West, South",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Independent,"$75,000-$100,000",Conservative,White,
+CREGION,2,2,"646386, 201801129431","West, Midwest",65+,Male,High school graduate,Yes,Married,Nothing in particular,Never,Independent,"$30,000-$50,000",Conservative,White,
+CREGION,2,2,"101224, 201501140868","South, Northeast",65+,Male,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$30,000-$50,000",Conservative,White,
+CREGION,2,2,"201501130561, 201801094645","West, South",65+,Male,High school graduate,Yes,Married,Protestant,Seldom,Independent,"$30,000-$50,000",Conservative,White,
+CREGION,2,2,"135751, 201501185367","Northeast, Midwest",65+,Male,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,2,"291696, 201801071600","West, Northeast",65+,Male,Postgraduate,Yes,Married,Protestant,Never,Democrat,"$100,000 or more",Liberal,White,
+CREGION,3,3,"201701208231, 201801064970, 201801176387","Midwest, South, West",65+,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Liberal,White,
+CREGION,2,2,"201501657917, 201801085478","South, Northeast",65+,Male,Postgraduate,Yes,Married,Protestant,Once a week,Independent,"$50,000-$75,000",Conservative,White,
+CREGION,2,2,"721626, 201501274536","Midwest, West",65+,Male,Postgraduate,Yes,Married,Protestant,Once or twice a month,Democrat,"$75,000-$100,000",Moderate,White,
+CREGION,2,3,"208695, 201801012568, 201801100924","Northeast, South, South",65+,Male,"Some college, no degree",Yes,Married,Roman Catholic,A few times a year,Republican,"$75,000-$100,000",Conservative,White,
+AGE,2,3,"677501, 201701712221, 201801148600","50-64, 50-64, 30-49",,Female,College graduate/some postgrad,Yes,Married,Nothing in particular,Seldom,Independent,"$100,000 or more",Moderate,White,Midwest
+AGE,3,4,"302389, 201501134096, 201701623394, 201801137137","65+, 65+, 18-29, 30-49",,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,Midwest
+AGE,2,2,"118847, 201801016848","65+, 30-49",,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,Midwest
+AGE,2,2,"108435, 710929","50-64, 30-49",,Female,Postgraduate,Yes,Married,Roman Catholic,A few times a year,Republican,"$100,000 or more",Conservative,White,Midwest
+AGE,2,2,"110353, 201801142030","50-64, 18-29",,Female,"Some college, no degree",Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Conservative,White,Midwest
+AGE,2,2,"201801126729, 201801141321","50-64, 30-49",,Female,"Some college, no degree",Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+AGE,2,2,"135293, 201501280504","50-64, 65+",,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,"$100,000 or more",Moderate,White,Midwest
+AGE,2,2,"709277, 201801131668","18-29, 65+",,Male,College graduate/some postgrad,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+AGE,2,2,"201501122386, 201701697127","65+, 30-49",,Male,High school graduate,Yes,Married,Agnostic,Never,Democrat,"$50,000-$75,000",Liberal,White,Midwest
+AGE,2,2,"201801128088, 201801150799","50-64, 30-49",,Male,High school graduate,Yes,Married,Protestant,A few times a year,Democrat,"$30,000-$50,000",Moderate,White,Midwest
+AGE,2,2,"201801135240, 201801140717","30-49, 65+",,Male,High school graduate,Yes,Married,Protestant,A few times a year,Independent,"$75,000-$100,000",Moderate,White,Midwest
+AGE,2,2,"201701717806, 201801129928","50-64, 30-49",,Male,High school graduate,Yes,Married,Protestant,A few times a year,Republican,"$30,000-$50,000",Conservative,White,Midwest
+AGE,2,3,"198205, 691726, 201801149200","50-64, 50-64, 30-49",,Male,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Very conservative,White,Midwest
+AGE,2,3,"201501185367, 201801137715, 201801139164","65+, 50-64, 50-64",,Male,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Liberal,White,Midwest
+AGE,2,2,"179513, 201801017060","50-64, 30-49",,Male,Postgraduate,Yes,Married,Nothing in particular,Seldom,Independent,"$100,000 or more",Moderate,White,Midwest
+AGE,2,2,"201701208231, 201801066821","65+, 50-64",,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Liberal,White,Midwest
+AGE,2,2,"201501140066, 201801131213","65+, 50-64",,Male,"Some college, no degree",Yes,Married,Protestant,A few times a year,Republican,"$50,000-$75,000",Conservative,White,Midwest
+AGE,2,2,"195296, 201801015751","65+, 50-64",,Male,"Some college, no degree",Yes,Married,Protestant,Once a week,Republican,"$30,000-$50,000",Very conservative,White,Midwest
+AGE,2,2,"217429, 201801008499","18-29, 30-49",,Female,College graduate/some postgrad,Yes,Living with a partner,Roman Catholic,Seldom,Republican,"$50,000-$75,000",Moderate,White,Northeast
+AGE,2,2,"201801084998, 201801086499","50-64, 30-49",,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Independent,"$100,000 or more",Moderate,White,Northeast
+AGE,2,2,"201801010475, 201801040835","18-29, 50-64",,Female,High school graduate,Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,Black,Northeast
+AGE,2,2,"125280, 201701734606","50-64, 18-29",,Female,Postgraduate,Yes,Never been married,Protestant,A few times a year,Independent,"$100,000 or more",Moderate,White,Northeast
+AGE,2,2,"201501666850, 201801089821","50-64, 18-29",,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Moderate,White,Northeast
+AGE,2,2,"201501603919, 201801077422","30-49, 50-64",,Male,Postgraduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,Northeast
+AGE,2,3,"657694, 201701219100, 201801010875","50-64, 50-64, 30-49",,Male,Postgraduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Moderate,White,Northeast
+AGE,2,2,"678920, 201801002764","50-64, 30-49",,Female,Associate's degree,Yes,Divorced,Protestant,Seldom,Republican,"$30,000-$50,000",Conservative,White,South
+AGE,2,2,"201801019314, 201801161790","18-29, 30-49",,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Republican,"$50,000-$75,000",Conservative,White,South
+AGE,2,2,"201801063110, 201801069017","30-49, 18-29",,Female,High school graduate,Yes,Living with a partner,Nothing in particular,Never,Independent,"$30,000-$50,000",Moderate,White,South
+AGE,2,2,"713150, 201801092797","65+, 50-64",,Female,High school graduate,Yes,Married,Nothing in particular,Seldom,Independent,"$30,000-$50,000",Conservative,White,South
+AGE,2,2,"201801099911, 201801120315","50-64, 30-49",,Female,High school graduate,Yes,Married,Protestant,More than once a week,Independent,"$30,000-$50,000",Conservative,White,South
+AGE,2,2,"201801043219, 201801115933","50-64, 30-49",,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$30,000-$50,000",Conservative,White,South
+AGE,2,2,"201801099917, 201801101406","30-49, 65+",,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"Less than $30,000",Very conservative,White,South
+AGE,2,2,"201801117121, 201801155356","30-49, 65+",,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+AGE,2,2,"650035, 201801163229","50-64, 30-49",,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$75,000-$100,000",Conservative,White,South
+AGE,2,2,"201501270442, 201801098949","65+, 50-64",,Female,High school graduate,Yes,Married,Protestant,Once or twice a month,Republican,"$30,000-$50,000",Moderate,White,South
+AGE,2,2,"339573, 201801122980","50-64, 30-49",,Female,High school graduate,Yes,Married,Protestant,Once or twice a month,Republican,"$50,000-$75,000",Conservative,White,South
+AGE,2,2,"109143, 201801119741","30-49, 50-64",,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,South
+AGE,2,2,"201801048193, 201801153646","50-64, 30-49",,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Moderate,White,South
+AGE,2,3,"128558, 201801043289, 201801047252","50-64, 30-49, 30-49",,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,South
+AGE,2,3,"201801035247, 201801048693, 201801106555","50-64, 30-49, 50-64",,Female,High school graduate,Yes,Never been married,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+AGE,2,2,"619716, 201801056738","30-49, 50-64",,Female,High school graduate,Yes,Never been married,Protestant,Once or twice a month,Democrat,"Less than $30,000",Moderate,Black,South
+AGE,3,3,"201801012248, 201801059158, 201801162841","50-64, 30-49, 18-29",,Female,High school graduate,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,Black,South
+AGE,2,2,"201501689562, 201801021976","30-49, 18-29",,Female,High school graduate,Yes,Never been married,Roman Catholic,A few times a year,Democrat,"Less than $30,000",Moderate,White,South
+AGE,2,2,"246335, 201801048954","65+, 50-64",,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+AGE,2,2,"205459, 201801096838","65+, 50-64",,Female,High school graduate,Yes,Widowed,Protestant,Once or twice a month,Republican,"Less than $30,000",Conservative,White,South
+AGE,2,2,"692468, 201801110904","50-64, 65+",,Female,High school graduate,Yes,Widowed,Protestant,Seldom,Democrat,"$30,000-$50,000",Moderate,White,South
+AGE,2,2,"201801120038, 201801122968","18-29, 30-49",,Female,Less than high school,Yes,Living with a partner,Nothing in particular,Seldom,Other,"Less than $30,000",Moderate,White,South
+AGE,2,2,"201501696068, 201801104363","65+, 30-49",,Female,Less than high school,Yes,Living with a partner,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,Black,South
+AGE,2,2,"312458, 201801050585","50-64, 30-49",,Female,Less than high school,Yes,Never been married,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+AGE,3,3,"674254, 201501651871, 201801161977","30-49, 65+, 50-64",,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,South
+AGE,2,2,"201801119294, 201801154667","18-29, 30-49",,Female,Postgraduate,Yes,Married,Mormon,Once a week,Independent,"Less than $30,000",Moderate,White,South
+AGE,2,2,"684102, 201801118503","18-29, 30-49",,Female,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,White,South
+AGE,2,2,"201801043496, 201801162100","30-49, 50-64",,Female,Postgraduate,Yes,Married,Protestant,Once or twice a month,Democrat,"$100,000 or more",Liberal,White,South
+AGE,2,2,"691468, 201801042057","65+, 30-49",,Female,"Some college, no degree",Yes,Married,Roman Catholic,A few times a year,Republican,"$50,000-$75,000",Conservative,White,South
+AGE,2,2,"201501627067, 201501641816","30-49, 18-29",,Male,Associate's degree,Yes,Never been married,Protestant,Seldom,Independent,"Less than $30,000",Moderate,White,South
+AGE,2,2,"201501735674, 201801116597","65+, 30-49",,Male,College graduate/some postgrad,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Liberal,White,South
+AGE,2,3,"112987, 201501602033, 201801099717","50-64, 30-49, 50-64",,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+AGE,3,3,"675850, 684897, 201801057976","30-49, 65+, 50-64",,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Very conservative,White,South
+AGE,2,2,"201801050721, 201801108660","50-64, 18-29",,Male,College graduate/some postgrad,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,South
+AGE,2,2,"201501615119, 201501728542","30-49, 50-64",,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,Seldom,Independent,"$100,000 or more",Moderate,White,South
+AGE,2,2,"201801046937, 201801064718","65+, 50-64",,Male,High school graduate,Yes,Married,Protestant,Seldom,Democrat,"$100,000 or more",Moderate,Black,South
+AGE,2,2,"201801114192, 201801118633","30-49, 50-64",,Male,High school graduate,Yes,Married,Protestant,Seldom,Democrat,"$50,000-$75,000",Moderate,White,South
+AGE,2,2,"201501175156, 201501604812","65+, 30-49",,Male,High school graduate,Yes,Married,Protestant,Seldom,Independent,"$75,000-$100,000",Conservative,White,South
+AGE,2,2,"201801100580, 201801123094","65+, 50-64",,Male,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,South
+AGE,2,2,"306597, 201801057325","50-64, 18-29",,Male,High school graduate,Yes,Never been married,Protestant,More than once a week,Independent,"Less than $30,000",Moderate,White,South
+AGE,2,2,"201701634066, 201801109253","50-64, 30-49",,Male,Postgraduate,Yes,Married,Atheist,Never,Independent,"$100,000 or more",Liberal,White,South
+AGE,2,2,"201701276587, 201801104346","65+, 30-49",,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,White,South
+AGE,2,2,"201701675881, 201801110692","50-64, 30-49",,Male,Postgraduate,Yes,Married,Protestant,Seldom,Democrat,"$75,000-$100,000",Very liberal,White,South
+AGE,2,2,"119910, 201701615366","50-64, 65+",,Male,Postgraduate,Yes,Married,Roman Catholic,A few times a year,Independent,"$100,000 or more",Moderate,White,South
+AGE,3,3,"201801022520, 201801093401, 201801102237","50-64, 18-29, 65+",,Male,Postgraduate,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",Conservative,White,South
+AGE,2,3,"274822, 201801097863, 201801100510","65+, 65+, 50-64",,Male,"Some college, no degree",Yes,Married,Protestant,A few times a year,Republican,"$100,000 or more",Conservative,White,South
+AGE,2,2,"201801187085, 201801188311","50-64, 30-49",,Female,College graduate/some postgrad,Yes,Divorced,Atheist,Never,Democrat,"$30,000-$50,000",Very liberal,White,West
+AGE,2,2,"201801180858, 201801188514","65+, 30-49",,Female,College graduate/some postgrad,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,West
+AGE,2,2,"111646, 201801168353","65+, 30-49",,Female,College graduate/some postgrad,Yes,Married,Mormon,Once a week,Democrat,"$100,000 or more",Moderate,White,West
+AGE,2,2,"201801166426, 201801184628","50-64, 65+",,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,West
+AGE,2,2,"194477, 201801007475","50-64, 18-29",,Female,High school graduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"$30,000-$50,000",Moderate,White,West
+AGE,2,2,"710764, 201701730879","50-64, 65+",,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,West
+AGE,2,2,"628369, 201801070144","30-49, 65+",,Female,Postgraduate,Yes,Married,Protestant,A few times a year,Democrat,"$100,000 or more",Liberal,White,West
+AGE,2,4,"650786, 201801166489, 201801181450, 201801185209","50-64, 50-64, 65+, 50-64",,Male,College graduate/some postgrad,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,West
+AGE,2,3,"201801023734, 201801031971, 201801069910","50-64, 30-49, 50-64",,Male,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",Very liberal,White,West
+AGE,2,2,"201701708598, 201801166335","50-64, 30-49",,Male,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,West
+AGE,2,2,"201801142224, 201801186893","18-29, 50-64",,Male,High school graduate,Yes,Never been married,Nothing in particular,Seldom,Democrat,"$30,000-$50,000",Liberal,White,West
+AGE,2,2,"151850, 201801031871","65+, 30-49",,Male,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,West
+AGE,2,2,"203464, 201801167999","50-64, 65+",,Male,Postgraduate,Yes,Married,Atheist,Never,Independent,"$100,000 or more",Moderate,White,West
+AGE,2,2,"201501698189, 201801185744","30-49, 65+",,Male,Postgraduate,Yes,Married,Atheist,Seldom,Independent,"$100,000 or more",Very liberal,White,West
+AGE,2,2,"133889, 201801182160","50-64, 30-49",,Male,Postgraduate,Yes,Married,Nothing in particular,Never,Independent,"$100,000 or more",Moderate,White,West
+AGE,2,2,"201501606632, 201801183785","18-29, 30-49",,Male,"Some college, no degree",Yes,Never been married,Agnostic,Never,Independent,"Less than $30,000",Liberal,White,West
+SEX,2,2,"201701651809, 201801137633","Male, Female",30-49,,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Other,"$100,000 or more",Liberal,White,Midwest
+SEX,2,2,"290087, 713534","Male, Female",30-49,,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Republican,"$100,000 or more",Conservative,White,Midwest
+SEX,2,2,"623703, 201801135271","Male, Female",30-49,,"Some college, no degree",Yes,Married,Protestant,Once or twice a month,Republican,"$100,000 or more",Conservative,White,Midwest
+SEX,2,2,"639116, 201801138505","Male, Female",50-64,,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,"$100,000 or more",Conservative,White,Midwest
+SEX,2,2,"607030, 201801129454","Female, Male",50-64,,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+SEX,2,2,"201801137978, 201801147739","Female, Male",65+,,High school graduate,Yes,Married,Protestant,Once a week,Independent,"$30,000-$50,000",Conservative,White,Midwest
+SEX,2,4,"302389, 201501134096, 201801136041, 201801147292","Female, Female, Male, Male",65+,,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,Midwest
+SEX,2,2,"310104, 201801075705","Female, Male",30-49,,Postgraduate,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+SEX,2,2,"201801061558, 201801074710","Female, Male",50-64,,Postgraduate,Yes,Married,Roman Catholic,Seldom,Democrat,"$100,000 or more",Moderate,White,Northeast
+SEX,2,2,"710053, 201801083973","Female, Male",50-64,,"Some college, no degree",Yes,Married,Protestant,Seldom,Republican,"$30,000-$50,000",Conservative,White,Northeast
+SEX,2,2,"201501602033, 201801045451","Male, Female",30-49,,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+SEX,2,2,"201801103759, 201801158136","Female, Male",30-49,,College graduate/some postgrad,Yes,Married,Roman Catholic,Once or twice a month,Republican,"$50,000-$75,000",Conservative,White,South
+SEX,2,2,"667483, 201801122980","Male, Female",30-49,,High school graduate,Yes,Married,Protestant,Once or twice a month,Republican,"$50,000-$75,000",Conservative,White,South
+SEX,2,2,"201801059158, 201801095293","Female, Male",30-49,,High school graduate,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,Black,South
+SEX,2,3,"201501603147, 201701611060, 201801052505","Female, Male, Female",30-49,,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,Black,South
+SEX,2,2,"201801104346, 201801118503","Male, Female",30-49,,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,White,South
+SEX,2,2,"201801065329, 201801106366","Female, Male",30-49,,"Some college, no degree",Yes,Married,Nothing in particular,Never,Republican,"$75,000-$100,000",Conservative,White,South
+SEX,2,2,"201701619446, 201801157888","Male, Female",30-49,,"Some college, no degree",Yes,Married,Protestant,Once or twice a month,Republican,"$50,000-$75,000",Moderate,White,South
+SEX,2,3,"331115, 201801018600, 201801101683","Male, Female, Male",50-64,,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Independent,"$100,000 or more",Moderate,White,South
+SEX,2,3,"201801046537, 201801064096, 201801119950","Male, Female, Male",50-64,,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Republican,"$100,000 or more",Conservative,White,South
+SEX,2,2,"201501147228, 201801095960","Male, Female",50-64,,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",Conservative,White,South
+SEX,2,2,"201501728542, 201801119678","Male, Female",50-64,,College graduate/some postgrad,Yes,Married,Roman Catholic,Seldom,Independent,"$100,000 or more",Moderate,White,South
+SEX,2,2,"158846, 201801123084","Male, Female",50-64,,High school graduate,Yes,Divorced,Protestant,More than once a week,Republican,"Less than $30,000",Conservative,White,South
+SEX,2,2,"201501623064, 201801020566","Female, Male",50-64,,High school graduate,Yes,Married,Protestant,More than once a week,Independent,"$50,000-$75,000",Conservative,White,South
+SEX,2,2,"201801119228, 201801154866","Male, Female",50-64,,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",Conservative,White,South
+SEX,2,2,"201501622506, 201801110176","Male, Female",50-64,,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Conservative,White,South
+SEX,2,2,"201801122366, 201801154489","Female, Male",50-64,,High school graduate,Yes,Married,Protestant,Seldom,Independent,"$30,000-$50,000",Moderate,White,South
+SEX,2,2,"331946, 201801119741","Male, Female",50-64,,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,South
+SEX,2,2,"714240, 201501270442","Male, Female",65+,,High school graduate,Yes,Married,Protestant,Once or twice a month,Republican,"$30,000-$50,000",Moderate,White,South
+SEX,2,3,"201501794979, 201801005624, 201801006549","Male, Female, Female",18-29,,College graduate/some postgrad,Yes,Never been married,Agnostic,Never,Democrat,"Less than $30,000",Liberal,White,West
+SEX,2,2,"201701690787, 201801167499","Male, Female",30-49,,College graduate/some postgrad,Yes,Married,Mormon,Once a week,Republican,"$100,000 or more",Moderate,White,West
+SEX,2,2,"201501170138, 201801166335","Female, Male",30-49,,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,West
+SEX,2,2,"651381, 201801169772","Female, Male",50-64,,High school graduate,Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,White,West
+SEX,2,2,"201501640967, 201701704165","Female, Male",50-64,,"Some college, no degree",Yes,Married,Nothing in particular,Seldom,Republican,"$75,000-$100,000",Moderate,White,West
+SEX,2,2,"201801180858, 201801181450","Female, Male",65+,,College graduate/some postgrad,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,West
+SEX,2,2,"603000, 201801188901","Male, Female",65+,,High school graduate,Yes,Married,Atheist,Never,Democrat,"Less than $30,000",Liberal,White,West
+SEX,2,2,"201501272160, 201701662709","Male, Female",65+,,High school graduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"Less than $30,000",Conservative,White,West
+SEX,2,2,"670395, 201801176387","Female, Male",65+,,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Liberal,White,West
+EDUCATION,2,2,"278114, 201801142030","College graduate/some postgrad, Some college, no degree",18-29,Female,,Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Conservative,White,Midwest
+EDUCATION,2,2,"698304, 201801129989","Postgraduate, High school graduate",30-49,Female,,Yes,Married,Protestant,Once a week,Democrat,"$50,000-$75,000",Liberal,White,Midwest
+EDUCATION,2,2,"201801066109, 201801139640","High school graduate, College graduate/some postgrad",30-49,Female,,Yes,Married,Protestant,Once a week,Republican,Refused,Conservative,White,Midwest
+EDUCATION,2,2,"713534, 201801135271","College graduate/some postgrad, Some college, no degree",30-49,Female,,Yes,Married,Protestant,Once or twice a month,Republican,"$100,000 or more",Conservative,White,Midwest
+EDUCATION,2,2,"201701617387, 201801017060","High school graduate, Postgraduate",30-49,Male,,Yes,Married,Nothing in particular,Seldom,Independent,"$100,000 or more",Moderate,White,Midwest
+EDUCATION,2,2,"290087, 623703","College graduate/some postgrad, Some college, no degree",30-49,Male,,Yes,Married,Protestant,Once or twice a month,Republican,"$100,000 or more",Conservative,White,Midwest
+EDUCATION,2,2,"617915, 201801149858","Associate's degree, Some college, no degree",30-49,Male,,Yes,Never been married,Atheist,Never,Independent,"Less than $30,000",Liberal,White,Midwest
+EDUCATION,2,2,"626723, 201801126554","High school graduate, Less than high school",50-64,Female,,Yes,Divorced,Protestant,Seldom,Independent,"Less than $30,000",Conservative,White,Midwest
+EDUCATION,2,2,"201801138919, 201801141713","High school graduate, Some college, no degree",50-64,Female,,Yes,Divorced,Protestant,Seldom,Republican,"Less than $30,000",Moderate,White,Midwest
+EDUCATION,2,2,"201801052791, 201801124870","High school graduate, Some college, no degree",50-64,Female,,Yes,Married,Nothing in particular,Never,Republican,"$100,000 or more",Moderate,White,Midwest
+EDUCATION,2,2,"201801130771, 201801135306","Postgraduate, College graduate/some postgrad",50-64,Female,,Yes,Married,Protestant,Seldom,Democrat,"$75,000-$100,000",Liberal,White,Midwest
+EDUCATION,2,2,"607030, 201801126729","High school graduate, Some college, no degree",50-64,Female,,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+EDUCATION,2,2,"201701239112, 201801131241","College graduate/some postgrad, Some college, no degree",50-64,Female,,Yes,Married,Roman Catholic,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+EDUCATION,2,3,"702342, 201801067930, 201801137781","High school graduate, College graduate/some postgrad, College graduate/some postgrad",50-64,Male,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Very conservative,White,Midwest
+EDUCATION,2,2,"201801056019, 201801066975","College graduate/some postgrad, High school graduate",50-64,Male,,Yes,Married,Protestant,Once a week,Republican,"$75,000-$100,000",Conservative,White,Midwest
+EDUCATION,2,2,"150197, 201801136559","Some college, no degree, High school graduate",50-64,Male,,Yes,Married,Protestant,Once a week,Republican,"$75,000-$100,000",Very conservative,White,Midwest
+EDUCATION,2,2,"615140, 726121","Some college, no degree, High school graduate",50-64,Male,,Yes,Married,Protestant,Seldom,Democrat,"$50,000-$75,000",Liberal,Black,Midwest
+EDUCATION,3,3,"201501685130, 201801132591, 201801141779","Some college, no degree, Postgraduate, High school graduate",50-64,Male,,Yes,Married,Protestant,Seldom,Independent,"$100,000 or more",Moderate,White,Midwest
+EDUCATION,3,3,"104727, 201801065741, 201801130789","High school graduate, College graduate/some postgrad, Some college, no degree",50-64,Male,,Yes,Married,Roman Catholic,Seldom,Republican,"$75,000-$100,000",Conservative,White,Midwest
+EDUCATION,2,2,"201701285880, 201801150336","Some college, no degree, College graduate/some postgrad",65+,Female,,Yes,Divorced,Protestant,Seldom,Democrat,"Less than $30,000",Very liberal,White,Midwest
+EDUCATION,2,3,"302389, 201501134096, 201801133570","High school graduate, High school graduate, Some college, no degree",65+,Female,,Yes,Married,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,Midwest
+EDUCATION,2,2,"285723, 201701602748","Some college, no degree, High school graduate",65+,Female,,Yes,Widowed,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,Midwest
+EDUCATION,2,2,"201501185367, 201801145987","Postgraduate, High school graduate",65+,Male,,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Liberal,White,Midwest
+EDUCATION,2,2,"312217, 201501611628","Postgraduate, College graduate/some postgrad",65+,Male,,Yes,Married,Atheist,Never,Independent,"$100,000 or more",Liberal,White,Midwest
+EDUCATION,2,2,"659273, 201801066988","Postgraduate, Some college, no degree",65+,Male,,Yes,Married,Atheist,Seldom,Democrat,"$100,000 or more",Very liberal,White,Midwest
+EDUCATION,2,2,"199510, 201501602753","Postgraduate, College graduate/some postgrad",65+,Male,,Yes,Married,Protestant,Once a week,Republican,"$50,000-$75,000",Very conservative,White,Midwest
+EDUCATION,2,2,"201801017429, 201801037927","College graduate/some postgrad, Some college, no degree",65+,Male,,Yes,Married,Roman Catholic,Once a week,Republican,"$30,000-$50,000",Very conservative,White,Midwest
+EDUCATION,2,2,"298035, 201801131690","Postgraduate, Some college, no degree",65+,Male,,Yes,Married,Roman Catholic,Once a week,Republican,"$50,000-$75,000",Conservative,White,Midwest
+EDUCATION,2,2,"201801010475, 201801087833","High school graduate, Some college, no degree",18-29,Female,,Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,Black,Northeast
+EDUCATION,2,2,"135822, 201801076272","High school graduate, College graduate/some postgrad",30-49,Female,,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",Very conservative,White,Northeast
+EDUCATION,2,2,"201501734175, 201701639224","Postgraduate, College graduate/some postgrad",30-49,Male,,Yes,Married,Agnostic,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+EDUCATION,2,3,"648860, 201501732248, 201801075435","Postgraduate, Postgraduate, Some college, no degree",30-49,Male,,Yes,Married,Agnostic,Never,Democrat,"$100,000 or more",Very liberal,White,Northeast
+EDUCATION,2,2,"201801061360, 201801071983","Associate's degree, College graduate/some postgrad",50-64,Female,,Yes,Married,Roman Catholic,Seldom,Republican,"$100,000 or more",Moderate,White,Northeast
+EDUCATION,2,2,"675077, 201801092104","High school graduate, Some college, no degree",50-64,Male,,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+EDUCATION,3,4,"657694, 201501666850, 201701219100, 201801084160","Postgraduate, College graduate/some postgrad, Postgraduate, Some college, no degree",50-64,Male,,Yes,Married,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Moderate,White,Northeast
+EDUCATION,2,2,"201801081022, 201801086154","College graduate/some postgrad, Postgraduate",65+,Male,,Yes,Married,Atheist,Never,Democrat,"$50,000-$75,000",Very liberal,White,Northeast
+EDUCATION,2,2,"201801101943, 201801120038","Some college, no degree, Less than high school",18-29,Female,,Yes,Living with a partner,Nothing in particular,Seldom,Other,"Less than $30,000",Moderate,White,South
+EDUCATION,2,2,"201801013404, 201801065024","Postgraduate, Some college, no degree",18-29,Female,,Yes,Married,Protestant,Seldom,Independent,"$50,000-$75,000",Moderate,White,South
+EDUCATION,2,2,"201801065296, 201801103493","Some college, no degree, Associate's degree",18-29,Female,,Yes,Never been married,Nothing in particular,Never,Independent,"Less than $30,000",Moderate,White,South
+EDUCATION,2,2,"201701628100, 201801094991","Some college, no degree, Postgraduate",18-29,Male,,Yes,Never been married,Nothing in particular,Never,Independent,"$30,000-$50,000",Moderate,White,South
+EDUCATION,2,2,"201801058253, 201801101567","Associate's degree, Postgraduate",30-49,Female,,Yes,Divorced,Protestant,Once a week,Democrat,"$30,000-$50,000",Moderate,Black,South
+EDUCATION,2,2,"201801020390, 201801154421","Associate's degree, High school graduate",30-49,Female,,Yes,Divorced,Protestant,Once a week,Republican,"Less than $30,000",Very conservative,White,South
+EDUCATION,2,2,"201801045451, 201801117121","College graduate/some postgrad, High school graduate",30-49,Female,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"201801107668, 201801119704","High school graduate, Some college, no degree",30-49,Female,,Yes,Married,Protestant,Seldom,Democrat,"$30,000-$50,000",Moderate,Black,South
+EDUCATION,2,2,"201801095429, 201801102549","High school graduate, Postgraduate",30-49,Female,,Yes,Married,Protestant,Seldom,Republican,"$30,000-$50,000",Conservative,White,South
+EDUCATION,2,2,"109143, 688663","High school graduate, Less than high school",30-49,Female,,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,South
+EDUCATION,2,2,"201801096498, 201801121078","Postgraduate, College graduate/some postgrad",30-49,Female,,Yes,Married,Roman Catholic,Once a week,Democrat,"$75,000-$100,000",Liberal,White,South
+EDUCATION,4,5,"201801044707, 201801049370, 201801058897, 201801109036, 201801121063","Less than high school, Some college, no degree, High school graduate, Associate's degree, Less than high school",30-49,Female,,Yes,Never been married,Protestant,A few times a year,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"201801048403, 201801113650","Postgraduate, Less than high school",30-49,Female,,Yes,Never been married,Protestant,More than once a week,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"201801048693, 201801050585","High school graduate, Less than high school",30-49,Female,,Yes,Never been married,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"201801046777, 201801093067","College graduate/some postgrad, Some college, no degree",30-49,Female,,Yes,Never been married,Protestant,Seldom,Democrat,"$50,000-$75,000",Liberal,Black,South
+EDUCATION,2,2,"665284, 666122","College graduate/some postgrad, Postgraduate",30-49,Female,,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Liberal,White,South
+EDUCATION,2,2,"201801056491, 201801059158","College graduate/some postgrad, High school graduate",30-49,Female,,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"201701647711, 201801109253","College graduate/some postgrad, Postgraduate",30-49,Male,,Yes,Married,Atheist,Never,Independent,"$100,000 or more",Liberal,White,South
+EDUCATION,2,2,"201501281314, 201701611060","College graduate/some postgrad, Postgraduate",30-49,Male,,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,Black,South
+EDUCATION,2,2,"201801011390, 201801104346","Associate's degree, Postgraduate",30-49,Male,,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,White,South
+EDUCATION,2,2,"707619, 201801105856","High school graduate, Associate's degree",30-49,Male,,Yes,Married,Protestant,Once a week,Independent,"$30,000-$50,000",Conservative,White,South
+EDUCATION,2,2,"101472, 201501615119","Postgraduate, College graduate/some postgrad",30-49,Male,,Yes,Married,Roman Catholic,Seldom,Independent,"$100,000 or more",Moderate,White,South
+EDUCATION,2,2,"275824, 201801106565","Postgraduate, College graduate/some postgrad",30-49,Male,,Yes,Separated,Atheist,Never,Independent,"$100,000 or more",Moderate,White,South
+EDUCATION,2,2,"201801019802, 201801064754","Some college, no degree, College graduate/some postgrad",50-64,Female,,Yes,Divorced,Protestant,Once or twice a month,Republican,"$30,000-$50,000",Conservative,White,South
+EDUCATION,2,2,"201801094759, 201801117867","Postgraduate, College graduate/some postgrad",50-64,Female,,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",Liberal,White,South
+EDUCATION,2,2,"201801099911, 201801120804","High school graduate, College graduate/some postgrad",50-64,Female,,Yes,Married,Protestant,More than once a week,Independent,"$30,000-$50,000",Conservative,White,South
+EDUCATION,2,2,"230613, 201801114800","Associate's degree, High school graduate",50-64,Female,,Yes,Married,Protestant,More than once a week,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"194718, 201801154866","Some college, no degree, High school graduate",50-64,Female,,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",Conservative,White,South
+EDUCATION,2,3,"615641, 201501609318, 201801120049","Postgraduate, Some college, no degree, Some college, no degree",50-64,Female,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"201801022661, 201801162100","College graduate/some postgrad, Postgraduate",50-64,Female,,Yes,Married,Protestant,Once or twice a month,Democrat,"$100,000 or more",Liberal,White,South
+EDUCATION,3,4,"312458, 201801035247, 201801044861, 201801106555","Less than high school, High school graduate, Postgraduate, High school graduate",50-64,Female,,Yes,Never been married,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"201801012248, 201801058091","High school graduate, Some college, no degree",50-64,Female,,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"158846, 201801019328","High school graduate, College graduate/some postgrad",50-64,Male,,Yes,Divorced,Protestant,More than once a week,Republican,"Less than $30,000",Conservative,White,South
+EDUCATION,2,2,"683423, 201801115595","College graduate/some postgrad, Postgraduate",50-64,Male,,Yes,Married,Agnostic,Never,Independent,"$100,000 or more",Liberal,White,South
+EDUCATION,2,3,"331115, 201801101683, 201801119954","College graduate/some postgrad, College graduate/some postgrad, Some college, no degree",50-64,Male,,Yes,Married,Nothing in particular,Never,Independent,"$100,000 or more",Moderate,White,South
+EDUCATION,3,4,"201501181026, 201501725890, 201801100510, 201801153632","High school graduate, College graduate/some postgrad, Some college, no degree, High school graduate",50-64,Male,,Yes,Married,Protestant,A few times a year,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"201801036725, 201801116483","College graduate/some postgrad, High school graduate",50-64,Male,,Yes,Married,Protestant,More than once a week,Republican,"$75,000-$100,000",Conservative,White,South
+EDUCATION,2,3,"201501120446, 201701613524, 201801114506","Postgraduate, High school graduate, High school graduate",50-64,Male,,Yes,Married,Protestant,Once a week,Independent,"$100,000 or more",Conservative,White,South
+EDUCATION,2,3,"112987, 201501736633, 201801099717","College graduate/some postgrad, Associate's degree, College graduate/some postgrad",50-64,Male,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"331946, 201801050721","High school graduate, College graduate/some postgrad",50-64,Male,,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,South
+EDUCATION,2,2,"119910, 201801011274","Postgraduate, College graduate/some postgrad",50-64,Male,,Yes,Married,Roman Catholic,A few times a year,Independent,"$100,000 or more",Moderate,White,South
+EDUCATION,2,2,"201801157003, 201801158338","Postgraduate, Some college, no degree",50-64,Male,,Yes,Married,Roman Catholic,A few times a year,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,3,3,"201501147228, 201801014053, 201801022520","College graduate/some postgrad, Associate's degree, Postgraduate",50-64,Male,,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"201501728542, 201701646756","College graduate/some postgrad, Associate's degree",50-64,Male,,Yes,Married,Roman Catholic,Seldom,Independent,"$100,000 or more",Moderate,White,South
+EDUCATION,2,2,"703882, 201501275680","High school graduate, Some college, no degree",50-64,Male,,Yes,Never been married,Protestant,Never,Democrat,"Less than $30,000",Liberal,Black,South
+EDUCATION,2,2,"162028, 201801096605","Associate's degree, College graduate/some postgrad",65+,Female,,Yes,Divorced,Protestant,Once or twice a month,Democrat,"$30,000-$50,000",Liberal,Black,South
+EDUCATION,2,2,"201801044350, 201801155356","Associate's degree, High school graduate",65+,Female,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"626361, 201801162136","College graduate/some postgrad, Postgraduate",65+,Female,,Yes,Married,Protestant,Seldom,Independent,"$75,000-$100,000",Moderate,White,South
+EDUCATION,2,2,"697525, 201701687546","Some college, no degree, High school graduate",65+,Female,,Yes,Widowed,Protestant,More than once a week,Republican,"$50,000-$75,000",Moderate,White,South
+EDUCATION,2,3,"236005, 201501118947, 201701239730","High school graduate, Less than high school, High school graduate",65+,Female,,Yes,Widowed,Protestant,More than once a week,Republican,"Less than $30,000",Very conservative,White,South
+EDUCATION,2,2,"246335, 201801034697","High school graduate, College graduate/some postgrad",65+,Female,,Yes,Widowed,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+EDUCATION,2,2,"286168, 201801114336","High school graduate, Some college, no degree",65+,Male,,Yes,Divorced,Protestant,Never,Republican,"Less than $30,000",Conservative,White,South
+EDUCATION,3,3,"201501738686, 201701243839, 201801098667","Some college, no degree, Less than high school, High school graduate",65+,Male,,Yes,Married,Protestant,A few times a year,Republican,"$30,000-$50,000",Conservative,White,South
+EDUCATION,2,2,"101224, 201501134223","High school graduate, College graduate/some postgrad",65+,Male,,Yes,Married,Protestant,More than once a week,Republican,"$30,000-$50,000",Conservative,White,South
+EDUCATION,2,2,"323087, 201701676350","College graduate/some postgrad, Some college, no degree",65+,Male,,Yes,Married,Protestant,More than once a week,Republican,"$75,000-$100,000",Very conservative,White,South
+EDUCATION,2,2,"336522, 201801018024","Associate's degree, High school graduate",65+,Male,,Yes,Married,Protestant,Seldom,Democrat,"$30,000-$50,000",Liberal,White,South
+EDUCATION,2,2,"110041, 201801103553","Postgraduate, High school graduate",65+,Male,,Yes,Married,Roman Catholic,Seldom,Republican,"$100,000 or more",Conservative,White,South
+EDUCATION,2,2,"706179, 201701209591","High school graduate, Some college, no degree",18-29,Female,,Yes,Married,Protestant,More than once a week,Democrat,"Less than $30,000",Moderate,White,West
+EDUCATION,2,3,"201801005624, 201801006549, 201801189104","College graduate/some postgrad, College graduate/some postgrad, Some college, no degree",18-29,Female,,Yes,Never been married,Agnostic,Never,Democrat,"Less than $30,000",Liberal,White,West
+EDUCATION,2,2,"201801033009, 201801187484","Some college, no degree, College graduate/some postgrad",18-29,Female,,Yes,Never been married,Nothing in particular,Never,Independent,"Less than $30,000",Liberal,White,West
+EDUCATION,2,2,"201801168036, 201801168353","Postgraduate, College graduate/some postgrad",30-49,Female,,Yes,Married,Mormon,Once a week,Democrat,"$100,000 or more",Moderate,White,West
+EDUCATION,2,2,"201501691787, 201801187343","College graduate/some postgrad, Some college, no degree",30-49,Female,,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",Liberal,White,West
+EDUCATION,2,3,"201501222080, 201801028729, 201801142271","Some college, no degree, Associate's degree, Associate's degree",30-49,Female,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Very conservative,White,West
+EDUCATION,2,2,"201801027530, 201801169134","High school graduate, Some college, no degree",30-49,Male,,Yes,Never been married,Roman Catholic,Never,Democrat,"Less than $30,000",Liberal,White,West
+EDUCATION,2,2,"201801164864, 201801182117","Postgraduate, Associate's degree",50-64,Male,,Yes,Married,Atheist,Never,Republican,"$100,000 or more",Conservative,Asian,West
+EDUCATION,2,2,"133889, 201501457166","Postgraduate, Associate's degree",50-64,Male,,Yes,Married,Nothing in particular,Never,Independent,"$100,000 or more",Moderate,White,West
+EDUCATION,2,2,"201801170559, 201801184135","Postgraduate, High school graduate",50-64,Male,,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",Very conservative,White,West
+EDUCATION,3,3,"201501130861, 201501738561, 201801171662","Some college, no degree, High school graduate, College graduate/some postgrad",50-64,Male,,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",Conservative,White,West
+EDUCATION,2,2,"637156, 201701708598","Some college, no degree, High school graduate",50-64,Male,,Yes,Married,Protestant,Seldom,Republican,"$75,000-$100,000",Conservative,White,West
+EDUCATION,2,2,"201801071165, 201801188581","High school graduate, College graduate/some postgrad",50-64,Male,,Yes,Never been married,Agnostic,Never,Democrat,"$100,000 or more",Moderate,White,West
+EDUCATION,2,2,"676382, 724172","Associate's degree, Postgraduate",65+,Female,,Yes,Married,Protestant,Once a week,Republican,"$75,000-$100,000",Very conservative,White,West
+EDUCATION,2,2,"324354, 201701730879","Less than high school, High school graduate",65+,Female,,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,West
+EDUCATION,2,2,"151850, 201801181450","Postgraduate, College graduate/some postgrad",65+,Male,,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,West
+EDUCATION,2,2,"231088, 201701231781","College graduate/some postgrad, Postgraduate",65+,Male,,Yes,Married,Jewish,Never,Independent,"$100,000 or more",Moderate,White,West
+EDUCATION,3,3,"247860, 201701268745, 201801170321","Some college, no degree, High school graduate, Postgraduate",65+,Male,,Yes,Married,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,West
+MARITAL,2,2,"201801127795, 201801145066","Living with a partner, Married",18-29,Female,Postgraduate,Yes,,Roman Catholic,A few times a year,Democrat,"$100,000 or more",Liberal,White,Midwest
+MARITAL,2,2,"177119, 201701641065","Married, Never been married",30-49,Female,High school graduate,Yes,,Other,Seldom,Republican,"Less than $30,000",Conservative,White,Midwest
+MARITAL,2,2,"201501734449, 201801053296","Living with a partner, Married",30-49,Female,"Some college, no degree",Yes,,Nothing in particular,A few times a year,Independent,"Less than $30,000",Moderate,Black,Midwest
+MARITAL,2,2,"201801134240, 201801150142","Married, Never been married",30-49,Male,Postgraduate,Yes,,Protestant,Once a week,Independent,"$50,000-$75,000",Moderate,White,Midwest
+MARITAL,2,2,"612905, 201801128243","Married, Divorced",50-64,Female,College graduate/some postgrad,Yes,,Nothing in particular,Never,Democrat,"$50,000-$75,000",Moderate,White,Midwest
+MARITAL,2,2,"201801017416, 201801134079","Married, Divorced",50-64,Female,High school graduate,Yes,,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,White,Midwest
+MARITAL,2,5,"703867, 201801128842, 201801143130, 201801146904, 201801149640","Divorced, Married, Married, Married, Divorced",50-64,Female,High school graduate,Yes,,Protestant,Seldom,Republican,"$30,000-$50,000",Conservative,White,Midwest
+MARITAL,2,2,"201801056246, 201801065587","Widowed, Married",50-64,Male,High school graduate,Yes,,Nothing in particular,Never,Republican,"$50,000-$75,000",Conservative,White,Midwest
+MARITAL,2,3,"302389, 201501134096, 201701602748","Married, Married, Widowed",65+,Female,High school graduate,Yes,,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,Midwest
+MARITAL,2,2,"179979, 201501619932","Widowed, Divorced",65+,Female,High school graduate,Yes,,Protestant,Seldom,Republican,"Less than $30,000",Conservative,White,Midwest
+MARITAL,2,2,"201501617739, 201801134328","Married, Widowed",65+,Female,High school graduate,Yes,,Roman Catholic,Once a week,Republican,"Less than $30,000",Conservative,White,Midwest
+MARITAL,2,2,"285723, 201801133570","Widowed, Married",65+,Female,"Some college, no degree",Yes,,Protestant,Once a week,Republican,"$30,000-$50,000",Conservative,White,Midwest
+MARITAL,2,2,"236370, 667435","Widowed, Divorced",65+,Female,"Some college, no degree",Yes,,Protestant,Once a week,Republican,"Less than $30,000",Very conservative,White,Midwest
+MARITAL,2,2,"124032, 224705","Married, Widowed",65+,Female,"Some college, no degree",Yes,,Protestant,Once or twice a month,Republican,"$50,000-$75,000",Conservative,White,Midwest
+MARITAL,2,2,"201501130193, 201501140066","Widowed, Married",65+,Male,"Some college, no degree",Yes,,Protestant,A few times a year,Republican,"$50,000-$75,000",Conservative,White,Midwest
+MARITAL,2,2,"685831, 201801095492","Never been married, Married",18-29,Female,College graduate/some postgrad,Yes,,Nothing in particular,Seldom,Democrat,"$50,000-$75,000",Liberal,Black,Northeast
+MARITAL,2,2,"626046, 201501734175","Living with a partner, Married",30-49,Male,Postgraduate,Yes,,Agnostic,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+MARITAL,2,2,"119548, 201801080561","Refused, Married",65+,Female,High school graduate,Yes,,Protestant,Once a week,Independent,Refused,Moderate,White,Northeast
+MARITAL,2,2,"201801094824, 201801098620","Never been married, Married",18-29,Female,High school graduate,Yes,,Nothing in particular,Never,Independent,"$100,000 or more",Moderate,White,South
+MARITAL,2,2,"201501735861, 201801163349","Married, Living with a partner",18-29,Female,"Some college, no degree",Yes,,Nothing in particular,Seldom,Other,"Less than $30,000",Very liberal,White,South
+MARITAL,2,2,"201801036295, 201801162197","Married, Living with a partner",30-49,Female,Associate's degree,Yes,,Protestant,Seldom,Independent,"$30,000-$50,000",Moderate,White,South
+MARITAL,2,2,"624754, 201801059322","Never been married, Living with a partner",30-49,Female,College graduate/some postgrad,Yes,,Atheist,Never,Democrat,"$50,000-$75,000",Very liberal,White,South
+MARITAL,2,2,"201801057156, 201801106624","Living with a partner, Married",30-49,Female,High school graduate,Yes,,Nothing in particular,A few times a year,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,2,"201801051400, 201801058897","Living with a partner, Never been married",30-49,Female,High school graduate,Yes,,Protestant,A few times a year,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,2,"637703, 201801120993","Living with a partner, Separated",30-49,Female,High school graduate,Yes,,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,South
+MARITAL,2,2,"674254, 201801043672","Married, Separated",30-49,Female,Postgraduate,Yes,,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,South
+MARITAL,2,2,"670667, 201801118302","Married, Separated",30-49,Female,Postgraduate,Yes,,Protestant,A few times a year,Democrat,"$100,000 or more",Moderate,White,South
+MARITAL,2,2,"201801049370, 201801050851","Never been married, Divorced",30-49,Female,"Some college, no degree",Yes,,Protestant,A few times a year,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,2,"201801116620, 201801119453","Never been married, Married",30-49,Female,"Some college, no degree",Yes,,Protestant,Once a week,Republican,Refused,Conservative,White,South
+MARITAL,2,2,"201801114815, 201801118642","Living with a partner, Married",50-64,Female,Associate's degree,Yes,,Roman Catholic,Never,Republican,"Less than $30,000",Liberal,White,South
+MARITAL,2,2,"201801104073, 201801108000","Married, Widowed",50-64,Female,High school graduate,Yes,,Protestant,More than once a week,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,3,"201801035247, 201801048954, 201801106555","Never been married, Widowed, Never been married",50-64,Female,High school graduate,Yes,,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,3,"201801044590, 201801050627, 201801051537","Married, Married, Never been married",50-64,Female,High school graduate,Yes,,Protestant,Seldom,Democrat,"Less than $30,000",Conservative,Black,South
+MARITAL,2,2,"194718, 201501278363","Married, Widowed",50-64,Female,"Some college, no degree",Yes,,Protestant,More than once a week,Republican,"$50,000-$75,000",Conservative,White,South
+MARITAL,2,2,"201801034748, 201801058091","Widowed, Never been married",50-64,Female,"Some college, no degree",Yes,,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,2,"158846, 610888","Divorced, Never been married",50-64,Male,High school graduate,Yes,,Protestant,More than once a week,Republican,"Less than $30,000",Conservative,White,South
+MARITAL,2,2,"201501188684, 201801163902","Widowed, Married",65+,Female,College graduate/some postgrad,Yes,,Protestant,A few times a year,Republican,"$50,000-$75,000",Conservative,White,South
+MARITAL,2,3,"236005, 201701239730, 201801101406","Widowed, Widowed, Married",65+,Female,High school graduate,Yes,,Protestant,More than once a week,Republican,"Less than $30,000",Very conservative,White,South
+MARITAL,2,2,"246335, 201801050659","Widowed, Divorced",65+,Female,High school graduate,Yes,,Protestant,Once a week,Democrat,"Less than $30,000",Moderate,Black,South
+MARITAL,2,2,"201501235637, 201501265686","Living with a partner, Widowed",65+,Female,High school graduate,Yes,,Protestant,Once a week,Republican,"Less than $30,000",Very conservative,White,South
+MARITAL,2,2,"201501485610, 201701219759","Widowed, Divorced",65+,Female,High school graduate,Yes,,Protestant,Once a week,Republican,Refused,Very conservative,White,South
+MARITAL,2,2,"201501118947, 201501208149","Widowed, Divorced",65+,Female,Less than high school,Yes,,Protestant,More than once a week,Republican,"Less than $30,000",Very conservative,White,South
+MARITAL,2,2,"201701201656, 201701274719","Widowed, Married",65+,Female,"Some college, no degree",Yes,,Protestant,Seldom,Republican,"$50,000-$75,000",Conservative,White,South
+MARITAL,2,2,"292740, 201801048612","Married, Divorced",65+,Male,High school graduate,Yes,,Protestant,Once or twice a month,Republican,"$30,000-$50,000",Conservative,White,South
+MARITAL,2,2,"201801184766, 201801185413","Living with a partner, Married",30-49,Female,Associate's degree,Yes,,Agnostic,Never,Democrat,"Less than $30,000",Very liberal,White,West
+MARITAL,2,2,"201701609785, 201801176405","Married, Divorced",30-49,Male,College graduate/some postgrad,Yes,,Agnostic,Never,Democrat,"$50,000-$75,000",Liberal,White,West
+MARITAL,2,2,"201801031871, 201801187298","Married, Living with a partner",30-49,Male,Postgraduate,Yes,,Atheist,Never,Democrat,"$100,000 or more",Very liberal,White,West
+MARITAL,2,2,"201501727377, 201801186884","Married, Never been married",50-64,Female,Postgraduate,Yes,,Nothing in particular,Never,Democrat,"$75,000-$100,000",Liberal,White,West
+MARITAL,2,2,"201801185913, 201801188581","Married, Never been married",50-64,Male,College graduate/some postgrad,Yes,,Agnostic,Never,Democrat,"$100,000 or more",Moderate,White,West
+MARITAL,2,2,"201095, 201801023846","Never been married, Married",50-64,Male,College graduate/some postgrad,Yes,,Atheist,Never,Independent,"$100,000 or more",Liberal,White,West
+MARITAL,2,2,"201801167288, 201801169772","Living with a partner, Never been married",50-64,Male,High school graduate,Yes,,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,White,West
+MARITAL,2,2,"300955, 201801176560","Living with a partner, Married",65+,Female,College graduate/some postgrad,Yes,,Jewish,A few times a year,Democrat,"$100,000 or more",Very liberal,White,West
+MARITAL,2,2,"201501798171, 201701730879","Separated, Widowed",65+,Female,High school graduate,Yes,,Protestant,Once a week,Republican,"Less than $30,000",Conservative,White,West
+MARITAL,2,2,"159674, 685591","Separated, Living with a partner",65+,Female,Postgraduate,Yes,,Atheist,Never,Democrat,"$30,000-$50,000",Very liberal,White,West
+RELIG,2,2,"201801124796, 201801136032","Roman Catholic, Protestant",18-29,Female,College graduate/some postgrad,Yes,Never been married,,A few times a year,Independent,"Less than $30,000",Moderate,White,Midwest
+RELIG,2,2,"607048, 201801151084","Orthodox, Roman Catholic",18-29,Male,College graduate/some postgrad,Yes,Never been married,,Once or twice a month,Independent,"$30,000-$50,000",Conservative,White,Midwest
+RELIG,2,2,"201801037188, 201801068056","Atheist, Nothing in particular",18-29,Male,High school graduate,Yes,Never been married,,Never,Other,"Less than $30,000",Liberal,White,Midwest
+RELIG,2,2,"693702, 201801147134","Roman Catholic, Nothing in particular",30-49,Female,"Some college, no degree",Yes,Never been married,,Seldom,Other,"Less than $30,000",Very liberal,White,Midwest
+RELIG,2,2,"201801147286, 201801148733","Roman Catholic, Agnostic",30-49,Male,College graduate/some postgrad,Yes,Living with a partner,,Never,Democrat,"$100,000 or more",Liberal,White,Midwest
+RELIG,2,2,"201501612338, 201801132953","Nothing in particular, Roman Catholic",30-49,Male,High school graduate,Yes,Married,,Seldom,Independent,"Less than $30,000",Moderate,White,Midwest
+RELIG,2,2,"201801017060, 201801147290","Nothing in particular, Roman Catholic",30-49,Male,Postgraduate,Yes,Married,,Seldom,Independent,"$100,000 or more",Moderate,White,Midwest
+RELIG,2,2,"201501687303, 201801140972","Orthodox, Protestant",50-64,Female,Postgraduate,Yes,Married,,A few times a year,Other,"$100,000 or more",Liberal,White,Midwest
+RELIG,2,2,"201801126729, 201801131241","Protestant, Roman Catholic",50-64,Female,"Some college, no degree",Yes,Married,,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIG,2,2,"201801126096, 201801147693","Agnostic, Protestant",50-64,Male,High school graduate,Yes,Married,,Never,Republican,"$30,000-$50,000",Conservative,White,Midwest
+RELIG,2,2,"718607, 201801066975","Roman Catholic, Protestant",50-64,Male,High school graduate,Yes,Married,,Once a week,Republican,"$75,000-$100,000",Conservative,White,Midwest
+RELIG,2,2,"201501739617, 201801129454","Roman Catholic, Protestant",50-64,Male,High school graduate,Yes,Married,,Seldom,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIG,2,2,"179513, 201801132591","Nothing in particular, Protestant",50-64,Male,Postgraduate,Yes,Married,,Seldom,Independent,"$100,000 or more",Moderate,White,Midwest
+RELIG,2,2,"324600, 201801137978","Roman Catholic, Protestant",65+,Female,High school graduate,Yes,Married,,Once a week,Independent,"$30,000-$50,000",Conservative,White,Midwest
+RELIG,2,2,"189053, 201801134328","Protestant, Roman Catholic",65+,Female,High school graduate,Yes,Widowed,,Once a week,Republican,"Less than $30,000",Conservative,White,Midwest
+RELIG,2,2,"662536, 201701100752","Other, Protestant",65+,Female,Postgraduate,Yes,Married,,Once a week,Independent,"$100,000 or more",Moderate,White,Midwest
+RELIG,2,2,"201801055568, 201801129918","Roman Catholic, Protestant",65+,Female,Postgraduate,Yes,Married,,Once a week,Independent,"$75,000-$100,000",Moderate,White,Midwest
+RELIG,2,2,"201501122386, 201701616800","Agnostic, Atheist",65+,Male,High school graduate,Yes,Married,,Never,Democrat,"$50,000-$75,000",Liberal,White,Midwest
+RELIG,2,2,"201501185367, 201801126633","Atheist, Agnostic",65+,Male,Postgraduate,Yes,Married,,Never,Democrat,"$100,000 or more",Liberal,White,Midwest
+RELIG,2,2,"195296, 201801037927","Protestant, Roman Catholic",65+,Male,"Some college, no degree",Yes,Married,,Once a week,Republican,"$30,000-$50,000",Very conservative,White,Midwest
+RELIG,2,2,"201501643604, 201801008522","Buddhist, Nothing in particular",18-29,Female,College graduate/some postgrad,Yes,Never been married,,Never,Other,"$30,000-$50,000",Liberal,White,Northeast
+RELIG,2,2,"201801072282, 201801080264","Jewish, Roman Catholic",18-29,Female,Postgraduate,Yes,Married,,A few times a year,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIG,2,2,"310104, 201801087258","Nothing in particular, Atheist",30-49,Female,Postgraduate,Yes,Married,,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIG,2,2,"201501734175, 201801075705","Agnostic, Nothing in particular",30-49,Male,Postgraduate,Yes,Married,,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIG,2,3,"201801089028, 201801089841, 201801090901","Roman Catholic, Protestant, Protestant",50-64,Female,High school graduate,Yes,Married,,Once a week,Republican,"$50,000-$75,000",Conservative,White,Northeast
+RELIG,2,2,"333245, 201801062333","Roman Catholic, Protestant",50-64,Female,High school graduate,Yes,Married,,Once or twice a month,Republican,"$50,000-$75,000",Moderate,White,Northeast
+RELIG,2,2,"201801073436, 201801076049","Orthodox, Nothing in particular",50-64,Female,Postgraduate,Yes,Married,,Never,Independent,"$100,000 or more",Moderate,White,Northeast
+RELIG,2,2,"201501666850, 201701268785","Roman Catholic, Protestant",50-64,Male,College graduate/some postgrad,Yes,Married,,A few times a year,Democrat,"$100,000 or more",Moderate,White,Northeast
+RELIG,2,2,"135751, 201801071600","Atheist, Protestant",65+,Male,Postgraduate,Yes,Married,,Never,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIG,2,2,"616849, 630082","Atheist, Jewish",65+,Male,Postgraduate,Yes,Married,,Seldom,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIG,2,4,"201801019314, 201801045534, 201801116774, 201801158874","Roman Catholic, Protestant, Protestant, Protestant",18-29,Female,College graduate/some postgrad,Yes,Married,,Once a week,Republican,"$50,000-$75,000",Conservative,White,South
+RELIG,2,2,"201801039165, 201801159546","Protestant, Nothing in particular",18-29,Female,High school graduate,Yes,Never been married,,A few times a year,Independent,"Less than $30,000",Moderate,Black,South
+RELIG,2,2,"201801051400, 201801057156","Protestant, Nothing in particular",30-49,Female,High school graduate,Yes,Living with a partner,,A few times a year,Democrat,"Less than $30,000",Moderate,Black,South
+RELIG,2,2,"201801019588, 201801106056","Nothing in particular, Protestant",30-49,Female,High school graduate,Yes,Living with a partner,,A few times a year,Other,"Less than $30,000",Moderate,White,South
+RELIG,2,2,"722032, 201801093846","Protestant, Nothing in particular",30-49,Female,High school graduate,Yes,Never been married,,Seldom,Democrat,"$30,000-$50,000",Moderate,White,South
+RELIG,2,2,"670667, 201501726689","Protestant, Jewish",30-49,Female,Postgraduate,Yes,Married,,A few times a year,Democrat,"$100,000 or more",Moderate,White,South
+RELIG,2,2,"201501658865, 201801101686","Agnostic, Atheist",30-49,Female,Postgraduate,Yes,Married,,Never,Democrat,"$100,000 or more",Liberal,White,South
+RELIG,2,2,"101472, 201801099390","Roman Catholic, Nothing in particular",30-49,Male,Postgraduate,Yes,Married,,Seldom,Independent,"$100,000 or more",Moderate,White,South
+RELIG,2,2,"201801064209, 201801100584","Protestant, Agnostic",50-64,Female,College graduate/some postgrad,Yes,Divorced,,Seldom,Democrat,"$100,000 or more",Liberal,White,South
+RELIG,2,2,"112984, 201801103006","Nothing in particular, Protestant",50-64,Female,College graduate/some postgrad,Yes,Married,,Never,Democrat,"$100,000 or more",Very liberal,White,South
+RELIG,2,2,"201501736633, 201801014053","Protestant, Roman Catholic",50-64,Male,Associate's degree,Yes,Married,,Once a week,Republican,"$100,000 or more",Conservative,White,South
+RELIG,2,2,"201501647627, 201801011274","Nothing in particular, Roman Catholic",50-64,Male,College graduate/some postgrad,Yes,Married,,A few times a year,Independent,"$100,000 or more",Moderate,White,South
+RELIG,2,3,"112987, 201501147228, 201801099717","Protestant, Roman Catholic, Protestant",50-64,Male,College graduate/some postgrad,Yes,Married,,Once a week,Republican,"$100,000 or more",Conservative,White,South
+RELIG,2,2,"665309, 201801057976","Roman Catholic, Protestant",50-64,Male,College graduate/some postgrad,Yes,Married,,Once a week,Republican,"$100,000 or more",Very conservative,White,South
+RELIG,2,2,"201801111581, 201801163343","Nothing in particular, Agnostic",50-64,Male,High school graduate,Yes,Married,,Never,Democrat,Refused,Liberal,White,South
+RELIG,2,2,"174032, 201501273530","Protestant, Atheist",50-64,Male,High school graduate,Yes,Married,,Never,Republican,"$100,000 or more",Very conservative,White,South
+RELIG,2,2,"119910, 201501675794","Roman Catholic, Protestant",50-64,Male,Postgraduate,Yes,Married,,A few times a year,Independent,"$100,000 or more",Moderate,White,South
+RELIG,2,2,"201701634066, 201801115595","Atheist, Agnostic",50-64,Male,Postgraduate,Yes,Married,,Never,Independent,"$100,000 or more",Liberal,White,South
+RELIG,2,2,"201801100510, 201801158338","Protestant, Roman Catholic",50-64,Male,"Some college, no degree",Yes,Married,,A few times a year,Republican,"$100,000 or more",Conservative,White,South
+RELIG,2,2,"198208, 201801119954","Protestant, Nothing in particular",50-64,Male,"Some college, no degree",Yes,Married,,Never,Independent,"$100,000 or more",Moderate,White,South
+RELIG,2,2,"647661, 201501735674","Jewish, Atheist",65+,Male,College graduate/some postgrad,Yes,Married,,Never,Democrat,"$100,000 or more",Liberal,White,South
+RELIG,2,2,"201801100580, 201801103553","Protestant, Roman Catholic",65+,Male,High school graduate,Yes,Married,,Seldom,Republican,"$100,000 or more",Conservative,White,South
+RELIG,2,2,"201501616125, 201801100194","Protestant, Other",65+,Male,Postgraduate,Yes,Married,,A few times a year,Democrat,"$100,000 or more",Moderate,White,South
+RELIG,2,2,"201501681893, 201801157451","Atheist, Protestant",65+,Male,"Some college, no degree",Yes,Married,,Never,Democrat,"$100,000 or more",Very liberal,White,South
+RELIG,2,2,"201801167574, 201801178398","Mormon, Protestant",18-29,Male,College graduate/some postgrad,Yes,Never been married,,Seldom,Democrat,"Less than $30,000",Liberal,White,West
+RELIG,2,2,"201501685645, 201801026461","Atheist, Nothing in particular",18-29,Male,High school graduate,Yes,Never been married,,Never,Other,"$30,000-$50,000",Moderate,White,West
+RELIG,2,2,"201801024222, 201801026804","Mormon, Protestant",30-49,Female,College graduate/some postgrad,Yes,Married,,Once a week,Democrat,"$30,000-$50,000",Conservative,White,West
+RELIG,2,2,"186956, 201801166934","Protestant, Mormon",30-49,Female,College graduate/some postgrad,Yes,Married,,Once a week,Republican,"$50,000-$75,000",Conservative,White,West
+RELIG,2,2,"201501786987, 201801171488","Agnostic, Roman Catholic",30-49,Female,College graduate/some postgrad,Yes,Married,,Seldom,Democrat,"$100,000 or more",Liberal,White,West
+RELIG,2,2,"201501170138, 201801168237","Protestant, Mormon",30-49,Female,High school graduate,Yes,Married,,Seldom,Republican,"$75,000-$100,000",Conservative,White,West
+RELIG,2,2,"301280, 201501222080","Mormon, Protestant",30-49,Female,"Some college, no degree",Yes,Married,,Once a week,Republican,"$100,000 or more",Very conservative,White,West
+RELIG,2,2,"607425, 695981","Jewish, Protestant",30-49,Male,College graduate/some postgrad,Yes,Married,,More than once a week,Republican,"$100,000 or more",Conservative,White,West
+RELIG,2,2,"201701621299, 201801142263","Mormon, Roman Catholic",30-49,Male,Postgraduate,Yes,Married,,Once a week,Democrat,"$100,000 or more",Liberal,White,West
+RELIG,2,5,"650786, 201801023734, 201801069910, 201801166489, 201801185209","Atheist, Nothing in particular, Nothing in particular, Atheist, Atheist",50-64,Male,College graduate/some postgrad,Yes,Married,,Never,Democrat,"$100,000 or more",Very liberal,White,West
+RELIG,2,2,"133889, 203464","Nothing in particular, Atheist",50-64,Male,Postgraduate,Yes,Married,,Never,Independent,"$100,000 or more",Moderate,White,West
+RELIG,2,2,"648758, 201801173699","Protestant, Agnostic",50-64,Male,"Some college, no degree",Yes,Married,,Never,Republican,"$100,000 or more",Conservative,White,West
+RELIG,2,2,"130889, 201801176560","Other, Jewish",65+,Female,College graduate/some postgrad,Yes,Married,,A few times a year,Democrat,"$100,000 or more",Very liberal,White,West
+RELIG,2,2,"651585, 201501256594","Agnostic, Protestant",65+,Female,College graduate/some postgrad,Yes,Married,,Never,Democrat,"$75,000-$100,000",Liberal,White,West
+RELIG,2,2,"201501286539, 201501636166","Protestant, Roman Catholic",65+,Female,High school graduate,Yes,Widowed,,Seldom,Republican,"$30,000-$50,000",Conservative,White,West
+RELIG,2,2,"201501630559, 201801176557","Roman Catholic, Jewish",65+,Male,College graduate/some postgrad,Yes,Married,,A few times a year,Democrat,"$100,000 or more",Moderate,White,West
+RELIG,2,2,"680766, 201801171133","Atheist, Nothing in particular",65+,Male,College graduate/some postgrad,Yes,Married,,Never,Republican,"$100,000 or more",Conservative,White,West
+RELIG,2,2,"151850, 641779","Atheist, Agnostic",65+,Male,Postgraduate,Yes,Married,,Never,Democrat,"$100,000 or more",Very liberal,White,West
+RELIG,2,2,"201701231781, 201801167999","Jewish, Atheist",65+,Male,Postgraduate,Yes,Married,,Never,Independent,"$100,000 or more",Moderate,White,West
+RELIGATTEND,2,2,"201801138352, 201801139196","A few times a year, Seldom",30-49,Female,Associate's degree,Yes,Married,Protestant,,Republican,"$100,000 or more",Moderate,White,Midwest
+RELIGATTEND,2,2,"713534, 201801128311","Once or twice a month, Once a week",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"688628, 201801148765","More than once a week, Once a week",30-49,Female,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Moderate,Black,Midwest
+RELIGATTEND,2,2,"201801135271, 201801141321","Once or twice a month, Seldom",30-49,Female,"Some college, no degree",Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"201801067655, 201801128695","Once a week, A few times a year",50-64,Female,Associate's degree,Yes,Married,Protestant,,Republican,"$100,000 or more",Very conservative,White,Midwest
+RELIGATTEND,2,2,"201801134774, 201801137746","Once a week, Never",50-64,Female,Associate's degree,Yes,Married,Protestant,,Republican,"$75,000-$100,000",Conservative,White,Midwest
+RELIGATTEND,2,3,"654114, 201701239112, 201801133702","Once a week, Seldom, Once a week",50-64,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"201701665651, 201801138919","Once a week, Seldom",50-64,Female,High school graduate,Yes,Divorced,Protestant,,Republican,"Less than $30,000",Moderate,White,Midwest
+RELIGATTEND,2,2,"201801052791, 201801141668","Never, Seldom",50-64,Female,High school graduate,Yes,Married,Nothing in particular,,Republican,"$100,000 or more",Moderate,White,Midwest
+RELIGATTEND,2,2,"678122, 201801067060","Never, Once a week",50-64,Female,High school graduate,Yes,Married,Protestant,,Independent,"Less than $30,000",Conservative,White,Midwest
+RELIGATTEND,2,2,"176308, 607030","Once or twice a month, Seldom",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"201801125187, 201801136625","Once or twice a month, A few times a year",50-64,Female,High school graduate,Yes,Never been married,Roman Catholic,,Democrat,"$50,000-$75,000",Moderate,White,Midwest
+RELIGATTEND,2,3,"639116, 201801131028, 201801131775","A few times a year, Once a week, Once a week",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,,Independent,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"135293, 627941","A few times a year, More than once a week",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,,Independent,"$100,000 or more",Moderate,White,Midwest
+RELIGATTEND,2,2,"201701717806, 201801147693","A few times a year, Never",50-64,Male,High school graduate,Yes,Married,Protestant,,Republican,"$30,000-$50,000",Conservative,White,Midwest
+RELIGATTEND,2,2,"201701261721, 201801136559","More than once a week, Once a week",50-64,Male,High school graduate,Yes,Married,Protestant,,Republican,"$75,000-$100,000",Very conservative,White,Midwest
+RELIGATTEND,2,2,"659269, 201501615153","Never, A few times a year",50-64,Male,High school graduate,Yes,Married,Roman Catholic,,Independent,"$75,000-$100,000",Moderate,White,Midwest
+RELIGATTEND,2,2,"104727, 718607","Seldom, Once a week",50-64,Male,High school graduate,Yes,Married,Roman Catholic,,Republican,"$75,000-$100,000",Conservative,White,Midwest
+RELIGATTEND,2,2,"200718, 314393","A few times a year, Never",50-64,Male,Postgraduate,Yes,Married,Atheist,,Democrat,"$100,000 or more",Very liberal,White,Midwest
+RELIGATTEND,3,3,"660532, 201801132591, 201801135091","Once a week, Seldom, Never",50-64,Male,Postgraduate,Yes,Married,Protestant,,Independent,"$100,000 or more",Moderate,White,Midwest
+RELIGATTEND,2,2,"659651, 201801123312","Never, Once or twice a month",50-64,Male,Postgraduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"118414, 201501275817","Seldom, Once a week",65+,Female,High school graduate,Yes,Married,Protestant,,Republican,"$75,000-$100,000",Very conservative,White,Midwest
+RELIGATTEND,2,2,"201701602748, 201701643850","Once a week, Once or twice a month",65+,Female,High school graduate,Yes,Widowed,Protestant,,Republican,"$30,000-$50,000",Conservative,White,Midwest
+RELIGATTEND,3,3,"179979, 189053, 201801137461","Seldom, Once a week, Never",65+,Female,High school graduate,Yes,Widowed,Protestant,,Republican,"Less than $30,000",Conservative,White,Midwest
+RELIGATTEND,2,2,"201501267422, 201801137694","Once or twice a month, Seldom",65+,Female,Postgraduate,Yes,Married,Protestant,,Independent,Refused,Moderate,White,Midwest
+RELIGATTEND,2,2,"201501147548, 201801132055","Once or twice a month, Seldom",65+,Female,Postgraduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,Midwest
+RELIGATTEND,2,2,"659497, 201501602753","Seldom, Once a week",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Very conservative,White,Midwest
+RELIGATTEND,2,2,"201501188973, 201701284756","A few times a year, More than once a week",65+,Male,High school graduate,Yes,Married,Roman Catholic,,Republican,"$50,000-$75,000",Conservative,White,Midwest
+RELIGATTEND,2,2,"197067, 201801136947","A few times a year, Once or twice a month",65+,Male,High school graduate,Yes,Widowed,Protestant,,Republican,"Less than $30,000",Conservative,White,Midwest
+RELIGATTEND,2,2,"685831, 201801008571","Seldom, Never",18-29,Female,College graduate/some postgrad,Yes,Never been married,Nothing in particular,,Democrat,"$50,000-$75,000",Liberal,Black,Northeast
+RELIGATTEND,2,2,"201801060823, 201801084120","A few times a year, Seldom",50-64,Female,College graduate/some postgrad,Yes,Married,Jewish,,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIGATTEND,2,3,"190961, 201801078773, 201801089527","Once a week, Once a week, Seldom",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"Less than $30,000",Conservative,White,Northeast
+RELIGATTEND,2,2,"201801060563, 201801085731","A few times a year, Seldom",50-64,Female,High school graduate,Yes,Married,Roman Catholic,,Independent,"$75,000-$100,000",Moderate,White,Northeast
+RELIGATTEND,2,3,"657694, 201701219100, 201801074710","A few times a year, A few times a year, Seldom",50-64,Male,Postgraduate,Yes,Married,Roman Catholic,,Democrat,"$100,000 or more",Moderate,White,Northeast
+RELIGATTEND,2,2,"201501226745, 201801090464","A few times a year, Once a week",65+,Female,High school graduate,Yes,Married,Roman Catholic,,Republican,"$75,000-$100,000",Very conservative,White,Northeast
+RELIGATTEND,2,2,"201501140868, 201801089792","More than once a week, Seldom",65+,Male,High school graduate,Yes,Married,Protestant,,Republican,"$30,000-$50,000",Conservative,White,Northeast
+RELIGATTEND,2,2,"135751, 616849","Never, Seldom",65+,Male,Postgraduate,Yes,Married,Atheist,,Democrat,"$100,000 or more",Liberal,White,Northeast
+RELIGATTEND,2,2,"274630, 201501272567","Never, More than once a week",65+,Male,Postgraduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,Northeast
+RELIGATTEND,2,2,"201801039165, 201801064193","A few times a year, Once a week",18-29,Female,High school graduate,Yes,Never been married,Protestant,,Independent,"Less than $30,000",Moderate,Black,South
+RELIGATTEND,2,2,"201801004622, 201801101943","Never, Seldom",18-29,Female,"Some college, no degree",Yes,Living with a partner,Nothing in particular,,Other,"Less than $30,000",Moderate,White,South
+RELIGATTEND,2,2,"201801099197, 201801113717","Seldom, Never",18-29,Male,High school graduate,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Very conservative,White,South
+RELIGATTEND,2,2,"201801043929, 201801051886","Once or twice a month, Once a week",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,,Democrat,"$50,000-$75,000",Moderate,Black,South
+RELIGATTEND,2,2,"332624, 603410","Seldom, A few times a year",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,,Democrat,"$75,000-$100,000",Liberal,White,South
+RELIGATTEND,2,2,"201801103759, 201801161790","Once or twice a month, Once a week",30-49,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,,Republican,"$50,000-$75,000",Conservative,White,South
+RELIGATTEND,2,2,"201801038801, 201801047503","Seldom, A few times a year",30-49,Female,College graduate/some postgrad,Yes,Never been married,Nothing in particular,,Democrat,"$30,000-$50,000",Moderate,Black,South
+RELIGATTEND,2,2,"107668, 201801048353","Never, A few times a year",30-49,Female,College graduate/some postgrad,Yes,Never been married,Protestant,,Republican,"$50,000-$75,000",Moderate,White,South
+RELIGATTEND,2,2,"637703, 201701248969","Once a week, More than once a week",30-49,Female,High school graduate,Yes,Living with a partner,Protestant,,Republican,"Less than $30,000",Conservative,White,South
+RELIGATTEND,2,2,"201501731289, 201801107668","More than once a week, Seldom",30-49,Female,High school graduate,Yes,Married,Protestant,,Democrat,"$30,000-$50,000",Moderate,Black,South
+RELIGATTEND,2,2,"201801098386, 201801117121","A few times a year, Once a week",30-49,Female,High school graduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,3,3,"201801095429, 201801112819, 201801115933","Seldom, A few times a year, More than once a week",30-49,Female,High school graduate,Yes,Married,Protestant,,Republican,"$30,000-$50,000",Conservative,White,South
+RELIGATTEND,3,3,"109143, 201501626010, 201801122980","Seldom, Never, Once or twice a month",30-49,Female,High school graduate,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Conservative,White,South
+RELIGATTEND,2,3,"201801043289, 201801047252, 201801163229","Seldom, Seldom, Once a week",30-49,Female,High school graduate,Yes,Married,Protestant,,Republican,"$75,000-$100,000",Conservative,White,South
+RELIGATTEND,4,4,"619716, 201801048693, 201801058897, 201801059158","Once or twice a month, Once a week, A few times a year, Seldom",30-49,Female,High school graduate,Yes,Never been married,Protestant,,Democrat,"Less than $30,000",Moderate,Black,South
+RELIGATTEND,3,4,"201801044707, 201801050585, 201801113650, 201801121063","A few times a year, Once a week, More than once a week, A few times a year",30-49,Female,Less than high school,Yes,Never been married,Protestant,,Democrat,"Less than $30,000",Moderate,Black,South
+RELIGATTEND,2,2,"279742, 201801043496","A few times a year, Once or twice a month",30-49,Female,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Liberal,White,South
+RELIGATTEND,2,2,"670667, 201801118503","A few times a year, Once a week",30-49,Female,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Moderate,White,South
+RELIGATTEND,2,2,"201501736485, 201801157888","Once a week, Once or twice a month",30-49,Female,"Some college, no degree",Yes,Married,Protestant,,Republican,"$50,000-$75,000",Moderate,White,South
+RELIGATTEND,2,2,"201801036673, 201801093067","Once a week, Seldom",30-49,Female,"Some college, no degree",Yes,Never been married,Protestant,,Democrat,"$50,000-$75,000",Liberal,Black,South
+RELIGATTEND,3,3,"633721, 682887, 721482","A few times a year, Once a week, More than once a week",30-49,Male,College graduate/some postgrad,Yes,Married,Protestant,,Independent,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"201701651794, 201801108320","Once or twice a month, A few times a year",30-49,Male,Postgraduate,Yes,Married,Protestant,,Independent,"$50,000-$75,000",Moderate,White,South
+RELIGATTEND,2,3,"193408, 726699, 201501617119","A few times a year, A few times a year, More than once a week",30-49,Male,Postgraduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"201801101066, 201801106366","Seldom, Never",30-49,Male,"Some college, no degree",Yes,Married,Nothing in particular,,Republican,"$75,000-$100,000",Conservative,White,South
+RELIGATTEND,2,2,"201501600878, 201801164185","Once a week, Seldom",30-49,Male,"Some college, no degree",Yes,Married,Protestant,,Independent,"Less than $30,000",Moderate,White,South
+RELIGATTEND,2,2,"201501655063, 201801064754","A few times a year, Once or twice a month",50-64,Female,College graduate/some postgrad,Yes,Divorced,Protestant,,Republican,"$30,000-$50,000",Conservative,White,South
+RELIGATTEND,2,2,"201501601490, 201801022661","Once a week, Once or twice a month",50-64,Female,College graduate/some postgrad,Yes,Married,Protestant,,Democrat,"$100,000 or more",Liberal,White,South
+RELIGATTEND,2,2,"201801104345, 201801123084","Once a week, More than once a week",50-64,Female,High school graduate,Yes,Divorced,Protestant,,Republican,"Less than $30,000",Conservative,White,South
+RELIGATTEND,2,2,"610318, 201801094633","A few times a year, Seldom",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Very conservative,White,South
+RELIGATTEND,4,4,"339573, 201801110176, 201801119741, 201801154866","Once or twice a month, Once a week, Seldom, More than once a week",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Conservative,White,South
+RELIGATTEND,2,3,"213541, 201501696206, 201801099674","A few times a year, More than once a week, More than once a week",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Very conservative,White,South
+RELIGATTEND,3,3,"128558, 650035, 201501688533","Seldom, Once a week, A few times a year",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"$75,000-$100,000",Conservative,White,South
+RELIGATTEND,2,3,"201701650473, 201801044577, 201801051537","Once a week, Once a week, Seldom",50-64,Female,High school graduate,Yes,Never been married,Protestant,,Democrat,"Less than $30,000",Conservative,Black,South
+RELIGATTEND,4,5,"201801012248, 201801035247, 201801051365, 201801056738, 201801106555","Seldom, Once a week, Never, Once or twice a month, Once a week",50-64,Female,High school graduate,Yes,Never been married,Protestant,,Democrat,"Less than $30,000",Moderate,Black,South
+RELIGATTEND,2,2,"201801048954, 201801108000","Once a week, More than once a week",50-64,Female,High school graduate,Yes,Widowed,Protestant,,Democrat,"Less than $30,000",Moderate,Black,South
+RELIGATTEND,2,3,"296049, 201801035081, 201801121337","Once or twice a month, Once a week, Once a week",50-64,Female,Postgraduate,Yes,Married,Protestant,,Democrat,"$75,000-$100,000",Moderate,Black,South
+RELIGATTEND,2,2,"681540, 705738","Once a week, A few times a year",50-64,Female,Postgraduate,Yes,Married,Roman Catholic,,Independent,"$75,000-$100,000",Moderate,White,South
+RELIGATTEND,2,3,"331115, 201501647627, 201801101683","Never, A few times a year, Never",50-64,Male,College graduate/some postgrad,Yes,Married,Nothing in particular,,Independent,"$100,000 or more",Moderate,White,South
+RELIGATTEND,3,5,"112987, 201501725890, 201801046537, 201801099717, 201801119950","Once a week, A few times a year, Once or twice a month, Once a week, Once or twice a month",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"201801057976, 201801161524","Once a week, Seldom",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,,Republican,"$100,000 or more",Very conservative,White,South
+RELIGATTEND,2,2,"201501728542, 201801011274","Seldom, A few times a year",50-64,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,,Independent,"$100,000 or more",Moderate,White,South
+RELIGATTEND,2,2,"201501147228, 201801108372","Once a week, Seldom",50-64,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"158846, 201801097937","More than once a week, Seldom",50-64,Male,High school graduate,Yes,Divorced,Protestant,,Republican,"Less than $30,000",Conservative,White,South
+RELIGATTEND,2,3,"201501181026, 201801123094, 201801153632","A few times a year, Seldom, A few times a year",50-64,Male,High school graduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"174032, 201701621929","Never, More than once a week",50-64,Male,High school graduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Very conservative,White,South
+RELIGATTEND,3,3,"331946, 201501622506, 201801119228","Seldom, Once a week, More than once a week",50-64,Male,High school graduate,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Conservative,White,South
+RELIGATTEND,2,2,"176890, 201801115836","A few times a year, Once a week",50-64,Male,Postgraduate,Yes,Married,Protestant,,Republican,Refused,Conservative,White,South
+RELIGATTEND,2,2,"201801022520, 201801157003","Once a week, A few times a year",50-64,Male,Postgraduate,Yes,Married,Roman Catholic,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"614833, 201501231316","Once or twice a month, Once a week",65+,Female,College graduate/some postgrad,Yes,Divorced,Roman Catholic,,Independent,"$100,000 or more",Moderate,White,South
+RELIGATTEND,2,2,"701125, 201501137331","More than once a week, Once a week",65+,Female,High school graduate,Yes,Married,Protestant,,Independent,"Less than $30,000",Liberal,White,South
+RELIGATTEND,3,3,"205459, 201701608387, 201801159040","Once or twice a month, A few times a year, Once a week",65+,Female,High school graduate,Yes,Widowed,Protestant,,Republican,"Less than $30,000",Conservative,White,South
+RELIGATTEND,2,3,"236005, 201501265686, 201701239730","More than once a week, Once a week, More than once a week",65+,Female,High school graduate,Yes,Widowed,Protestant,,Republican,"Less than $30,000",Very conservative,White,South
+RELIGATTEND,2,2,"314113, 201801111233","A few times a year, More than once a week",65+,Female,Less than high school,Yes,Widowed,Protestant,,Independent,"Less than $30,000",Conservative,White,South
+RELIGATTEND,2,3,"613271, 201701225857, 201801105891","A few times a year, Once a week, Once a week",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,,Independent,"$75,000-$100,000",Moderate,White,South
+RELIGATTEND,2,2,"201501134223, 201801160749","More than once a week, Once a week",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,,Republican,"$30,000-$50,000",Conservative,White,South
+RELIGATTEND,2,2,"286168, 697609","Never, A few times a year",65+,Male,High school graduate,Yes,Divorced,Protestant,,Republican,"Less than $30,000",Conservative,White,South
+RELIGATTEND,3,3,"101224, 292740, 201801098667","More than once a week, Once or twice a month, A few times a year",65+,Male,High school graduate,Yes,Married,Protestant,,Republican,"$30,000-$50,000",Conservative,White,South
+RELIGATTEND,2,2,"714240, 201801096566","Once or twice a month, Once a week",65+,Male,High school graduate,Yes,Married,Protestant,,Republican,"$30,000-$50,000",Moderate,White,South
+RELIGATTEND,2,2,"201701204112, 201801103553","A few times a year, Seldom",65+,Male,High school graduate,Yes,Married,Roman Catholic,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"201501616125, 201701276587","A few times a year, Once a week",65+,Male,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Moderate,White,South
+RELIGATTEND,2,2,"110041, 201801102237","Seldom, Once a week",65+,Male,Postgraduate,Yes,Married,Roman Catholic,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"201801107651, 201801114336","Seldom, Never",65+,Male,"Some college, no degree",Yes,Divorced,Protestant,,Republican,"Less than $30,000",Conservative,White,South
+RELIGATTEND,2,2,"330324, 201501214635","More than once a week, Once or twice a month",65+,Male,"Some college, no degree",Yes,Married,Protestant,,Independent,"$75,000-$100,000",Conservative,White,South
+RELIGATTEND,2,3,"103379, 274822, 201801097863","Once a week, A few times a year, A few times a year",65+,Male,"Some college, no degree",Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,South
+RELIGATTEND,2,2,"201801107887, 201801120082","A few times a year, More than once a week",65+,Male,"Some college, no degree",Yes,Married,Protestant,,Republican,Refused,Conservative,White,South
+RELIGATTEND,2,2,"606790, 201801005376","Once or twice a month, Once a week",18-29,Female,College graduate/some postgrad,Yes,Never been married,Roman Catholic,,Democrat,"Less than $30,000",Liberal,Hispanic,West
+RELIGATTEND,2,2,"201801168522, 201801189104","A few times a year, Never",18-29,Female,"Some college, no degree",Yes,Never been married,Agnostic,,Democrat,"Less than $30,000",Liberal,White,West
+RELIGATTEND,2,3,"201801025078, 201801169952, 201801184572","Once or twice a month, Once or twice a month, Never",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,,Other,"$50,000-$75,000",Moderate,White,West
+RELIGATTEND,2,2,"628369, 201801188328","A few times a year, Seldom",30-49,Female,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Liberal,White,West
+RELIGATTEND,2,2,"604983, 201501276677","Once a week, Never",30-49,Female,"Some college, no degree",Yes,Living with a partner,Protestant,,Republican,"Less than $30,000",Moderate,White,West
+RELIGATTEND,2,2,"114970, 201801183389","Once or twice a month, A few times a year",50-64,Female,College graduate/some postgrad,Yes,Married,Protestant,,Democrat,"$100,000 or more",Liberal,White,West
+RELIGATTEND,2,2,"157570, 201701607476","Seldom, A few times a year",50-64,Female,High school graduate,Yes,Married,Nothing in particular,,Independent,"$30,000-$50,000",Liberal,White,West
+RELIGATTEND,3,3,"653961, 201801166426, 201801177312","More than once a week, Seldom, Never",50-64,Female,High school graduate,Yes,Married,Protestant,,Republican,"$50,000-$75,000",Conservative,White,West
+RELIGATTEND,2,2,"303653, 201801180184","Once or twice a month, A few times a year",50-64,Female,Postgraduate,Yes,Married,Jewish,,Democrat,"$100,000 or more",Liberal,White,West
+RELIGATTEND,2,2,"201501787357, 201701721301","More than once a week, A few times a year",50-64,Female,"Some college, no degree",Yes,Married,Protestant,,Independent,"$100,000 or more",Conservative,White,West
+RELIGATTEND,2,2,"684390, 201801024284","A few times a year, Once a week",50-64,Female,"Some college, no degree",Yes,Married,Protestant,,Republican,Refused,Conservative,White,West
+RELIGATTEND,2,2,"201501738561, 201801169947","Seldom, Once a week",50-64,Male,High school graduate,Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,West
+RELIGATTEND,3,3,"648758, 201501130861, 201801165893","Never, Seldom, Once or twice a month",50-64,Male,"Some college, no degree",Yes,Married,Protestant,,Republican,"$100,000 or more",Conservative,White,West
+RELIGATTEND,2,2,"101493, 637156","Never, Seldom",50-64,Male,"Some college, no degree",Yes,Married,Protestant,,Republican,"$75,000-$100,000",Conservative,White,West
+RELIGATTEND,2,2,"201501182789, 201701730879","More than once a week, Once a week",65+,Female,High school graduate,Yes,Widowed,Protestant,,Republican,"Less than $30,000",Conservative,White,West
+RELIGATTEND,2,2,"670395, 201801070144","Once a week, A few times a year",65+,Female,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Liberal,White,West
+RELIGATTEND,2,2,"726963, 201801175529","Seldom, Never",65+,Male,High school graduate,Yes,Married,Nothing in particular,,Republican,"$50,000-$75,000",Moderate,White,West
+RELIGATTEND,2,2,"291696, 201801176387","Never, Once a week",65+,Male,Postgraduate,Yes,Married,Protestant,,Democrat,"$100,000 or more",Liberal,White,West
+RELIGATTEND,2,2,"201501210646, 201501686389","A few times a year, Seldom",65+,Male,Postgraduate,Yes,Married,Protestant,,Independent,"$100,000 or more",Moderate,White,West
+POLPARTY,2,2,"710929, 201801151662","Republican, Democrat",30-49,Female,Postgraduate,Yes,Married,Roman Catholic,A few times a year,,"$100,000 or more",Conservative,White,Midwest
+POLPARTY,2,3,"201801066773, 201801125784, 201801141701","Independent, Republican, Republican",50-64,Female,High school graduate,Yes,Married,Protestant,Never,,"$30,000-$50,000",Moderate,White,Midwest
+POLPARTY,2,2,"201701214671, 201801140972","Democrat, Other",50-64,Female,Postgraduate,Yes,Married,Protestant,A few times a year,,"$100,000 or more",Liberal,White,Midwest
+POLPARTY,2,3,"198205, 603552, 691726","Republican, Independent, Republican",50-64,Male,High school graduate,Yes,Married,Protestant,Once a week,,"$50,000-$75,000",Very conservative,White,Midwest
+POLPARTY,2,2,"299715, 677466","Other, Independent",50-64,Male,High school graduate,Yes,Never been married,Nothing in particular,Never,,"Less than $30,000",Moderate,White,Midwest
+POLPARTY,2,2,"201501685130, 201701608817","Independent, Republican",50-64,Male,"Some college, no degree",Yes,Married,Protestant,Seldom,,"$100,000 or more",Moderate,White,Midwest
+POLPARTY,2,3,"302389, 201501134096, 201801137978","Republican, Republican, Independent",65+,Female,High school graduate,Yes,Married,Protestant,Once a week,,"$30,000-$50,000",Conservative,White,Midwest
+POLPARTY,2,2,"131708, 201801130106","Republican, Independent",65+,Female,High school graduate,Yes,Married,Protestant,Seldom,,"$30,000-$50,000",Moderate,White,Midwest
+POLPARTY,2,2,"201701660622, 201801137120","Other, Republican",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,,"Less than $30,000",Moderate,White,Midwest
+POLPARTY,2,3,"201801136041, 201801147292, 201801147739","Republican, Republican, Independent",65+,Male,High school graduate,Yes,Married,Protestant,Once a week,,"$30,000-$50,000",Conservative,White,Midwest
+POLPARTY,2,2,"312217, 201501185367","Independent, Democrat",65+,Male,Postgraduate,Yes,Married,Atheist,Never,,"$100,000 or more",Liberal,White,Midwest
+POLPARTY,2,2,"201801010543, 201801086499","Democrat, Independent",30-49,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,,"$100,000 or more",Moderate,White,Northeast
+POLPARTY,2,2,"619874, 201801007712","Independent, Democrat",30-49,Female,Postgraduate,Yes,Married,Agnostic,Never,,"$100,000 or more",Moderate,White,Northeast
+POLPARTY,2,2,"201801009297, 201801039859","Other, Independent",30-49,Female,"Some college, no degree",Yes,Never been married,Nothing in particular,A few times a year,,"Less than $30,000",Liberal,White,Northeast
+POLPARTY,2,2,"201701618677, 201801071894","Republican, Democrat",30-49,Male,High school graduate,Yes,Never been married,Nothing in particular,Never,,"Less than $30,000",Conservative,White,Northeast
+POLPARTY,2,2,"201501178408, 201501666850","Republican, Democrat",50-64,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,A few times a year,,"$100,000 or more",Moderate,White,Northeast
+POLPARTY,2,2,"201501691275, 201801063593","Democrat, Other",18-29,Female,College graduate/some postgrad,Yes,Never been married,Nothing in particular,Never,,"Less than $30,000",Liberal,White,South
+POLPARTY,2,2,"201801051528, 201801159546","Democrat, Independent",18-29,Female,High school graduate,Yes,Never been married,Nothing in particular,A few times a year,,"Less than $30,000",Moderate,Black,South
+POLPARTY,2,2,"201501695644, 201801058253","Independent, Democrat",30-49,Female,Associate's degree,Yes,Divorced,Protestant,Once a week,,"$30,000-$50,000",Moderate,Black,South
+POLPARTY,2,2,"201801003867, 201801023469","Independent, Democrat",30-49,Female,Associate's degree,Yes,Married,Roman Catholic,A few times a year,,"$30,000-$50,000",Moderate,White,South
+POLPARTY,2,2,"201801115933, 201801120315","Republican, Independent",30-49,Female,High school graduate,Yes,Married,Protestant,More than once a week,,"$30,000-$50,000",Conservative,White,South
+POLPARTY,2,2,"201501658865, 201801157681","Democrat, Independent",30-49,Female,Postgraduate,Yes,Married,Agnostic,Never,,"$100,000 or more",Liberal,White,South
+POLPARTY,2,2,"201801117083, 201801118503","Republican, Democrat",30-49,Female,Postgraduate,Yes,Married,Protestant,Once a week,,"$100,000 or more",Moderate,White,South
+POLPARTY,2,2,"201801104574, 201801153428","Refused, Other",30-49,Female,Postgraduate,Yes,Married,Protestant,Once or twice a month,,"$75,000-$100,000",Moderate,White,South
+POLPARTY,2,2,"201501727268, 201801022725","Democrat, Republican",30-49,Female,Postgraduate,Yes,Married,Roman Catholic,Once or twice a month,,"$100,000 or more",Moderate,White,South
+POLPARTY,2,2,"201701647711, 201801116597","Independent, Democrat",30-49,Male,College graduate/some postgrad,Yes,Married,Atheist,Never,,"$100,000 or more",Liberal,White,South
+POLPARTY,2,2,"682887, 201501602033","Independent, Republican",30-49,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,,"$100,000 or more",Conservative,White,South
+POLPARTY,2,2,"201501696906, 201701250933","Independent, Republican",30-49,Male,Less than high school,Yes,Married,Protestant,Once a week,,"$50,000-$75,000",Moderate,White,South
+POLPARTY,2,2,"201801117136, 201801158375","Other, Democrat",30-49,Male,Postgraduate,Yes,Married,Atheist,Never,,"$50,000-$75,000",Very liberal,White,South
+POLPARTY,2,2,"201501616087, 201801104772","Republican, Democrat",50-64,Female,College graduate/some postgrad,Yes,Married,Agnostic,Never,,"$100,000 or more",Moderate,White,South
+POLPARTY,2,2,"201801064540, 201801093721","Republican, Democrat",50-64,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,,"$100,000 or more",Moderate,White,South
+POLPARTY,2,2,"201801043219, 201801099911","Republican, Independent",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,,"$30,000-$50,000",Conservative,White,South
+POLPARTY,2,2,"669822, 201801038998","Independent, Democrat",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,,"$50,000-$75,000",Conservative,Black,South
+POLPARTY,2,2,"201501623064, 201801154866","Independent, Republican",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,,"$50,000-$75,000",Conservative,White,South
+POLPARTY,2,2,"201801018360, 201801094633","Democrat, Republican",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,,"$100,000 or more",Very conservative,White,South
+POLPARTY,2,2,"201801012957, 201801107942","Democrat, Independent",50-64,Female,"Some college, no degree",Yes,Divorced,Nothing in particular,Seldom,,"Less than $30,000",Moderate,White,South
+POLPARTY,2,2,"201701212768, 201801046194","Democrat, Independent",50-64,Female,"Some college, no degree",Yes,Married,Protestant,Once a week,,"$30,000-$50,000",Conservative,Black,South
+POLPARTY,2,2,"201801001659, 201801117002","Independent, Republican",50-64,Female,"Some college, no degree",Yes,Married,Protestant,Seldom,,"Less than $30,000",Moderate,White,South
+POLPARTY,2,2,"201801020566, 201801119228","Independent, Republican",50-64,Male,High school graduate,Yes,Married,Protestant,More than once a week,,"$50,000-$75,000",Conservative,White,South
+POLPARTY,2,2,"119910, 201801157504","Independent, Democrat",50-64,Male,Postgraduate,Yes,Married,Roman Catholic,A few times a year,,"$100,000 or more",Moderate,White,South
+POLPARTY,2,2,"201501679311, 201801100510","Independent, Republican",50-64,Male,"Some college, no degree",Yes,Married,Protestant,A few times a year,,"$100,000 or more",Conservative,White,South
+POLPARTY,2,2,"201801106036, 201801107852","Republican, Other",50-64,Male,"Some college, no degree",Yes,Married,Protestant,Seldom,,"$75,000-$100,000",Conservative,White,South
+POLPARTY,2,2,"201501211025, 201801102250","Republican, Other",65+,Female,High school graduate,Yes,Married,Protestant,Once a week,,"$30,000-$50,000",Conservative,White,South
+POLPARTY,2,2,"201501270442, 201801161859","Republican, Democrat",65+,Female,High school graduate,Yes,Married,Protestant,Once or twice a month,,"$30,000-$50,000",Moderate,White,South
+POLPARTY,2,2,"146434, 201801154335","Republican, Other",65+,Female,High school graduate,Yes,Married,Roman Catholic,Once a week,,"$75,000-$100,000",Moderate,White,South
+POLPARTY,2,2,"321025, 201801111233","Republican, Independent",65+,Female,Less than high school,Yes,Widowed,Protestant,More than once a week,,"Less than $30,000",Conservative,White,South
+POLPARTY,2,2,"613271, 201801155181","Independent, Democrat",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,,"$75,000-$100,000",Moderate,White,South
+POLPARTY,2,2,"684897, 201801153273","Republican, Other",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,,"$100,000 or more",Very conservative,White,South
+POLPARTY,2,2,"201801120082, 201801123260","Republican, Refused",65+,Male,"Some college, no degree",Yes,Married,Protestant,More than once a week,,Refused,Conservative,White,South
+POLPARTY,2,2,"201701716173, 201801032261","Democrat, Independent",18-29,Female,High school graduate,Yes,Never been married,Nothing in particular,Never,,"Less than $30,000",Very liberal,Hispanic,West
+POLPARTY,2,2,"201801167499, 201801168353","Republican, Democrat",30-49,Female,College graduate/some postgrad,Yes,Married,Mormon,Once a week,,"$100,000 or more",Moderate,White,West
+POLPARTY,2,2,"653382, 201801187342","Independent, Democrat",30-49,Female,"Some college, no degree",Yes,Married,Nothing in particular,Never,,"$30,000-$50,000",Moderate,White,West
+POLPARTY,2,2,"201501686761, 201801177349","Other, Independent",30-49,Male,"Some college, no degree",Yes,Married,Roman Catholic,A few times a year,,"$100,000 or more",Moderate,White,West
+POLPARTY,2,2,"192950, 201801171133","Independent, Republican",65+,Male,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,,"$100,000 or more",Conservative,White,West
+POLPARTY,2,3,"201501611961, 201801069734, 201801175888","Independent, Republican, Republican",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,,"$75,000-$100,000",Conservative,White,West
+POLPARTY,2,2,"666190, 201801167037","Other, Republican",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,Seldom,,"$30,000-$50,000",Very conservative,White,West
+INCOME,2,2,"201801130851, 201801132378","$30,000-$50,000, $100,000 or more",18-29,Female,College graduate/some postgrad,Yes,Never been married,Atheist,Never,Democrat,,Very liberal,White,Midwest
+INCOME,2,2,"709277, 201801067366","$100,000 or more, $50,000-$75,000",18-29,Male,College graduate/some postgrad,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,Midwest
+INCOME,2,2,"201801128311, 201801139640","$100,000 or more, Refused",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"201801126656, 201801140678","Less than $30,000, Refused",30-49,Female,High school graduate,Yes,Married,Protestant,Once a week,Other,,Moderate,White,Midwest
+INCOME,2,2,"201801066109, 201801137137","Refused, $30,000-$50,000",30-49,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"698304, 201801054903","$50,000-$75,000, Refused",30-49,Female,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,,Liberal,White,Midwest
+INCOME,2,2,"201801037336, 201801126683","Less than $30,000, $50,000-$75,000",30-49,Female,"Some college, no degree",Yes,Divorced,Nothing in particular,A few times a year,Independent,,Moderate,White,Midwest
+INCOME,2,2,"201801131058, 201801142545","$30,000-$50,000, $75,000-$100,000",30-49,Female,"Some college, no degree",Yes,Married,Nothing in particular,Never,Democrat,,Liberal,White,Midwest
+INCOME,2,2,"201501612338, 201701617387","Less than $30,000, $100,000 or more",30-49,Male,High school graduate,Yes,Married,Nothing in particular,Seldom,Independent,,Moderate,White,Midwest
+INCOME,2,2,"201801129928, 201801134876","$30,000-$50,000, $50,000-$75,000",30-49,Male,High school graduate,Yes,Married,Protestant,A few times a year,Republican,,Conservative,White,Midwest
+INCOME,3,5,"301013, 607030, 201801128842, 201801143130, 201801146904","$75,000-$100,000, $100,000 or more, $30,000-$50,000, $30,000-$50,000, $30,000-$50,000",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,Midwest
+INCOME,2,2,"115706, 201501689501","Less than $30,000, Refused",50-64,Female,High school graduate,Yes,Never been married,Protestant,Once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"201801037602, 201801130254","$30,000-$50,000, $100,000 or more",50-64,Male,Associate's degree,Yes,Married,Roman Catholic,Once a week,Republican,,Very conservative,White,Midwest
+INCOME,2,2,"201801132327, 201801135133","$50,000-$75,000, $30,000-$50,000",50-64,Male,College graduate/some postgrad,Yes,Divorced,Protestant,Seldom,Independent,,Moderate,White,Midwest
+INCOME,3,4,"198205, 691726, 702342, 201801136559","$50,000-$75,000, $50,000-$75,000, $100,000 or more, $75,000-$100,000",50-64,Male,High school graduate,Yes,Married,Protestant,Once a week,Republican,,Very conservative,White,Midwest
+INCOME,2,2,"104727, 201501739617","$75,000-$100,000, $100,000 or more",50-64,Male,High school graduate,Yes,Married,Roman Catholic,Seldom,Republican,,Conservative,White,Midwest
+INCOME,2,2,"150197, 201801015751","$75,000-$100,000, $30,000-$50,000",50-64,Male,"Some college, no degree",Yes,Married,Protestant,Once a week,Republican,,Very conservative,White,Midwest
+INCOME,2,2,"600226, 201801067478","$50,000-$75,000, $30,000-$50,000",50-64,Male,"Some college, no degree",Yes,Married,Roman Catholic,Seldom,Independent,,Moderate,White,Midwest
+INCOME,2,2,"201501617739, 201801015839","Less than $30,000, $50,000-$75,000",65+,Female,High school graduate,Yes,Married,Roman Catholic,Once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"189053, 201701602748","Less than $30,000, $30,000-$50,000",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"201701100752, 201801129918","$100,000 or more, $75,000-$100,000",65+,Female,Postgraduate,Yes,Married,Protestant,Once a week,Independent,,Moderate,White,Midwest
+INCOME,2,2,"302693, 685807","$75,000-$100,000, $100,000 or more",65+,Female,"Some college, no degree",Yes,Married,Agnostic,Never,Democrat,,Liberal,White,Midwest
+INCOME,2,3,"201501131385, 201701602937, 201801133570","Refused, Refused, $30,000-$50,000",65+,Female,"Some college, no degree",Yes,Married,Protestant,Once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"279894, 661439","$75,000-$100,000, Less than $30,000",65+,Female,"Some college, no degree",Yes,Married,Protestant,Seldom,Democrat,,Moderate,White,Midwest
+INCOME,2,2,"236370, 201801149467","Less than $30,000, $30,000-$50,000",65+,Female,"Some college, no degree",Yes,Widowed,Protestant,Once a week,Republican,,Very conservative,White,Midwest
+INCOME,2,2,"201501122386, 201501267121","$50,000-$75,000, $30,000-$50,000",65+,Male,High school graduate,Yes,Married,Agnostic,Never,Democrat,,Liberal,White,Midwest
+INCOME,2,2,"201701616800, 201801145987","$50,000-$75,000, $100,000 or more",65+,Male,High school graduate,Yes,Married,Atheist,Never,Democrat,,Liberal,White,Midwest
+INCOME,2,2,"201801140717, 201801146168","$75,000-$100,000, Less than $30,000",65+,Male,High school graduate,Yes,Married,Protestant,A few times a year,Independent,,Moderate,White,Midwest
+INCOME,2,2,"201701284756, 201801131211","$50,000-$75,000, Less than $30,000",65+,Male,High school graduate,Yes,Married,Roman Catholic,More than once a week,Republican,,Conservative,White,Midwest
+INCOME,2,2,"678458, 201801061089","Less than $30,000, $75,000-$100,000",18-29,Male,"Some college, no degree",Yes,Never been married,Agnostic,Never,Independent,,Moderate,White,Northeast
+INCOME,2,2,"201501208389, 201801061442","$50,000-$75,000, $75,000-$100,000",30-49,Female,High school graduate,Yes,Married,Protestant,Never,Republican,,Conservative,White,Northeast
+INCOME,2,2,"619874, 201801073970","$100,000 or more, Refused",30-49,Female,Postgraduate,Yes,Married,Agnostic,Never,Independent,,Moderate,White,Northeast
+INCOME,2,4,"190961, 201801078773, 201801089841, 201801090901","Less than $30,000, Less than $30,000, $50,000-$75,000, $50,000-$75,000",50-64,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,Northeast
+INCOME,2,2,"201801060563, 201801075345","$75,000-$100,000, $50,000-$75,000",50-64,Female,High school graduate,Yes,Married,Roman Catholic,A few times a year,Independent,,Moderate,White,Northeast
+INCOME,2,2,"201501682827, 201801091024","$100,000 or more, $50,000-$75,000",50-64,Male,High school graduate,Yes,Married,Nothing in particular,Never,Republican,,Conservative,White,Northeast
+INCOME,2,2,"238002, 201801090969","Less than $30,000, $30,000-$50,000",65+,Female,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,Northeast
+INCOME,2,2,"201801073635, 201801084531","$30,000-$50,000, $100,000 or more",65+,Female,High school graduate,Yes,Married,Roman Catholic,Seldom,Democrat,,Moderate,White,Northeast
+INCOME,2,2,"201801004622, 201801063504","Less than $30,000, $30,000-$50,000",18-29,Female,"Some college, no degree",Yes,Living with a partner,Nothing in particular,Never,Other,,Moderate,White,South
+INCOME,3,3,"201801036295, 201801107722, 201801154641","$30,000-$50,000, $75,000-$100,000, $100,000 or more",30-49,Female,Associate's degree,Yes,Married,Protestant,Seldom,Independent,,Moderate,White,South
+INCOME,2,2,"637703, 201801113687","Less than $30,000, $30,000-$50,000",30-49,Female,High school graduate,Yes,Living with a partner,Protestant,Once a week,Republican,,Conservative,White,South
+INCOME,2,2,"201801098386, 201801112819","$100,000 or more, $30,000-$50,000",30-49,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,,Conservative,White,South
+INCOME,2,2,"201801047559, 201801099917","Refused, Less than $30,000",30-49,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,,Very conservative,White,South
+INCOME,2,2,"201801117121, 201801163229","$100,000 or more, $75,000-$100,000",30-49,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,South
+INCOME,3,4,"109143, 201801043289, 201801047252, 201801095429","$50,000-$75,000, $75,000-$100,000, $75,000-$100,000, $30,000-$50,000",30-49,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,South
+INCOME,2,2,"201701668073, 201801058897","$30,000-$50,000, Less than $30,000",30-49,Female,High school graduate,Yes,Never been married,Protestant,A few times a year,Democrat,,Moderate,Black,South
+INCOME,2,2,"201701654545, 201801104363","Refused, Less than $30,000",30-49,Female,Less than high school,Yes,Living with a partner,Protestant,Seldom,Democrat,,Moderate,Black,South
+INCOME,2,2,"201801048937, 201801049205","$50,000-$75,000, $30,000-$50,000",30-49,Female,Postgraduate,Yes,Married,Protestant,More than once a week,Democrat,,Liberal,Black,South
+INCOME,2,2,"687555, 201801098768","$75,000-$100,000, $100,000 or more",30-49,Female,Postgraduate,Yes,Married,Roman Catholic,Once a week,Republican,,Very conservative,White,South
+INCOME,2,2,"201801119704, 201801154846","$30,000-$50,000, $75,000-$100,000",30-49,Female,"Some college, no degree",Yes,Married,Protestant,Seldom,Democrat,,Moderate,Black,South
+INCOME,2,2,"201501697523, 201801104346","$75,000-$100,000, $100,000 or more",30-49,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,,Moderate,White,South
+INCOME,2,2,"201801097471, 201801155242","$75,000-$100,000, $50,000-$75,000",30-49,Male,"Some college, no degree",Yes,Married,Atheist,Never,Other,,Conservative,White,South
+INCOME,2,2,"601754, 201801011030","$75,000-$100,000, $100,000 or more",30-49,Male,"Some college, no degree",Yes,Married,Roman Catholic,A few times a year,Other,,Moderate,White,South
+INCOME,2,2,"201501660822, 201801162837","Refused, $30,000-$50,000",50-64,Female,Associate's degree,Yes,Married,Protestant,Once a week,Republican,,Moderate,White,South
+INCOME,2,2,"201801022661, 201801110212","$100,000 or more, $75,000-$100,000",50-64,Female,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Democrat,,Liberal,White,South
+INCOME,2,2,"201501688533, 201801020339","$75,000-$100,000, Less than $30,000",50-64,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,,Conservative,White,South
+INCOME,2,2,"692611, 201801069577","$100,000 or more, $75,000-$100,000",50-64,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,,Moderate,White,South
+INCOME,2,2,"213541, 610318","$50,000-$75,000, $100,000 or more",50-64,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,,Very conservative,White,South
+INCOME,2,2,"201801044523, 201801104073","$75,000-$100,000, Less than $30,000",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Democrat,,Moderate,Black,South
+INCOME,2,2,"201501623064, 201801099911","$50,000-$75,000, $30,000-$50,000",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Independent,,Conservative,White,South
+INCOME,3,3,"201801043219, 201801114800, 201801154866","$30,000-$50,000, $100,000 or more, $50,000-$75,000",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,,Conservative,White,South
+INCOME,2,2,"650035, 201801110176","$75,000-$100,000, $50,000-$75,000",50-64,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,South
+INCOME,2,2,"128558, 201801119741","$75,000-$100,000, $50,000-$75,000",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,South
+INCOME,2,2,"201801094633, 201801101234","$100,000 or more, Refused",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Very conservative,White,South
+INCOME,2,3,"205490, 201801035247, 201801106555","$50,000-$75,000, Less than $30,000, Less than $30,000",50-64,Female,High school graduate,Yes,Never been married,Protestant,Once a week,Democrat,,Moderate,Black,South
+INCOME,2,2,"201701719226, 201801056738","$30,000-$50,000, Less than $30,000",50-64,Female,High school graduate,Yes,Never been married,Protestant,Once or twice a month,Democrat,,Moderate,Black,South
+INCOME,2,2,"201801001958, 201801019802","$100,000 or more, $30,000-$50,000",50-64,Female,"Some college, no degree",Yes,Divorced,Protestant,Once or twice a month,Republican,,Conservative,White,South
+INCOME,2,3,"331115, 201801099130, 201801101683","$100,000 or more, $50,000-$75,000, $100,000 or more",50-64,Male,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Independent,,Moderate,White,South
+INCOME,2,2,"201801048646, 201801094959","$30,000-$50,000, $100,000 or more",50-64,Male,High school graduate,Yes,Married,Protestant,More than once a week,Democrat,,Liberal,Black,South
+INCOME,2,2,"201801116483, 201801119228","$75,000-$100,000, $50,000-$75,000",50-64,Male,High school graduate,Yes,Married,Protestant,More than once a week,Republican,,Conservative,White,South
+INCOME,3,3,"201701621929, 201801116588, 201801122619","$100,000 or more, $75,000-$100,000, $30,000-$50,000",50-64,Male,High school graduate,Yes,Married,Protestant,More than once a week,Republican,,Very conservative,White,South
+INCOME,2,2,"201801122540, 201801154489","Less than $30,000, $30,000-$50,000",50-64,Male,High school graduate,Yes,Married,Protestant,Seldom,Independent,,Moderate,White,South
+INCOME,2,2,"331946, 201801123094","$50,000-$75,000, $100,000 or more",50-64,Male,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,South
+INCOME,2,2,"722222, 201801065288","$50,000-$75,000, Less than $30,000",50-64,Male,"Some college, no degree",Yes,Divorced,Protestant,A few times a year,Republican,,Conservative,White,South
+INCOME,2,2,"201501211025, 201801155356","$30,000-$50,000, $100,000 or more",65+,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,,Conservative,White,South
+INCOME,2,2,"201501265686, 201501485610","Less than $30,000, Refused",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,,Very conservative,White,South
+INCOME,2,2,"245863, 201701201656","$75,000-$100,000, $50,000-$75,000",65+,Female,"Some college, no degree",Yes,Widowed,Protestant,Seldom,Republican,,Conservative,White,South
+INCOME,2,2,"336522, 201701254556","$30,000-$50,000, Less than $30,000",65+,Male,Associate's degree,Yes,Married,Protestant,Seldom,Democrat,,Liberal,White,South
+INCOME,2,2,"613271, 201801156839","$75,000-$100,000, $100,000 or more",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,,Moderate,White,South
+INCOME,3,3,"201501175156, 201801094645, 201801113790","$75,000-$100,000, $30,000-$50,000, Refused",65+,Male,High school graduate,Yes,Married,Protestant,Seldom,Independent,,Conservative,White,South
+INCOME,2,2,"651541, 201801161390","$30,000-$50,000, Less than $30,000",65+,Male,Less than high school,Yes,Widowed,Protestant,Seldom,Republican,,Very conservative,White,South
+INCOME,2,2,"207573, 201801107651","$100,000 or more, Less than $30,000",65+,Male,"Some college, no degree",Yes,Divorced,Protestant,Seldom,Republican,,Conservative,White,South
+INCOME,3,4,"274822, 201501738686, 201801097863, 201801107887","$100,000 or more, $30,000-$50,000, $100,000 or more, Refused",65+,Male,"Some college, no degree",Yes,Married,Protestant,A few times a year,Republican,,Conservative,White,South
+INCOME,2,2,"288869, 330324","$50,000-$75,000, $75,000-$100,000",65+,Male,"Some college, no degree",Yes,Married,Protestant,More than once a week,Independent,,Conservative,White,South
+INCOME,3,3,"201701613286, 201701676350, 201801119346","$30,000-$50,000, $75,000-$100,000, $50,000-$75,000",65+,Male,"Some college, no degree",Yes,Married,Protestant,More than once a week,Republican,,Very conservative,White,South
+INCOME,2,2,"201501266543, 201501603687","$30,000-$50,000, $50,000-$75,000",65+,Male,"Some college, no degree",Yes,Married,Protestant,Seldom,Democrat,,Moderate,White,South
+INCOME,2,2,"201801166839, 201801166934","$75,000-$100,000, $50,000-$75,000",30-49,Female,College graduate/some postgrad,Yes,Married,Mormon,Once a week,Republican,,Conservative,White,West
+INCOME,2,2,"201501283889, 201801180451","Less than $30,000, $100,000 or more",30-49,Male,Postgraduate,Yes,Never been married,Protestant,Once a week,Republican,,Very conservative,White,West
+INCOME,2,2,"201801142163, 201801186217","Less than $30,000, $30,000-$50,000",50-64,Female,High school graduate,Yes,Married,Protestant,Never,Refused,,Refused,White,West
+INCOME,2,2,"201801177312, 201801183132","$50,000-$75,000, Refused",50-64,Female,High school graduate,Yes,Married,Protestant,Never,Republican,,Conservative,White,West
+INCOME,2,2,"201801142113, 201801166426","Less than $30,000, $50,000-$75,000",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,West
+INCOME,2,3,"201501727377, 201801186905, 201801188508","$75,000-$100,000, $100,000 or more, $100,000 or more",50-64,Female,Postgraduate,Yes,Married,Nothing in particular,Never,Democrat,,Liberal,White,West
+INCOME,2,3,"126380, 201801023734, 201801069910","$50,000-$75,000, $100,000 or more, $100,000 or more",50-64,Male,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Democrat,,Very liberal,White,West
+INCOME,2,2,"201801028040, 201801184588","$100,000 or more, $30,000-$50,000",50-64,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Independent,,Moderate,Asian,West
+INCOME,2,2,"201501738561, 201701708598","$100,000 or more, $75,000-$100,000",50-64,Male,High school graduate,Yes,Married,Protestant,Seldom,Republican,,Conservative,White,West
+INCOME,2,2,"101493, 648758","$75,000-$100,000, $100,000 or more",50-64,Male,"Some college, no degree",Yes,Married,Protestant,Never,Republican,,Conservative,White,West
+INCOME,2,2,"637156, 201501130861","$75,000-$100,000, $100,000 or more",50-64,Male,"Some college, no degree",Yes,Married,Protestant,Seldom,Republican,,Conservative,White,West
+INCOME,2,2,"201501256594, 201801186909","$75,000-$100,000, $50,000-$75,000",65+,Female,College graduate/some postgrad,Yes,Married,Protestant,Never,Democrat,,Liberal,White,West
+INCOME,2,2,"657776, 201801166169","Less than $30,000, $75,000-$100,000",65+,Female,College graduate/some postgrad,Yes,Widowed,Protestant,Once a week,Democrat,,Liberal,White,West
+INCOME,2,2,"120343, 201801170295","$100,000 or more, Refused",65+,Female,"Some college, no degree",Yes,Married,Nothing in particular,Never,Republican,,Conservative,White,West
+INCOME,2,2,"708383, 201801181450","$75,000-$100,000, $100,000 or more",65+,Male,College graduate/some postgrad,Yes,Married,Atheist,Never,Democrat,,Very liberal,White,West
+INCOME,2,2,"114671, 201801170673","$100,000 or more, $50,000-$75,000",65+,Male,Postgraduate,Yes,Married,Nothing in particular,Seldom,Independent,,Conservative,White,West
+INCOME,2,2,"201801176387, 201801184913","$100,000 or more, $50,000-$75,000",65+,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,,Liberal,White,West
+INCOME,2,2,"247860, 201801164829","Less than $30,000, $30,000-$50,000",65+,Male,"Some college, no degree",Yes,Married,Protestant,Once a week,Republican,,Conservative,White,West
+POLIDEOLOGY,2,2,"201801002360, 201801038113","Very liberal, Conservative",18-29,Female,Less than high school,Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",,Black,Midwest
+POLIDEOLOGY,2,2,"655741, 201801129538","Liberal, Moderate",18-29,Male,College graduate/some postgrad,Yes,Never been married,Agnostic,A few times a year,Independent,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,3,3,"713534, 201801123990, 201801135769","Conservative, Very conservative, Moderate",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Republican,"$100,000 or more",,White,Midwest
+POLIDEOLOGY,2,2,"201801130231, 201801140744","Conservative, Very conservative",30-49,Male,Postgraduate,Yes,Married,Protestant,More than once a week,Republican,"$75,000-$100,000",,White,Midwest
+POLIDEOLOGY,2,2,"101437, 653904","Conservative, Very conservative",50-64,Female,Associate's degree,Yes,Divorced,Protestant,Once a week,Republican,"Less than $30,000",,White,Midwest
+POLIDEOLOGY,2,2,"612905, 201801137915","Moderate, Liberal",50-64,Female,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Democrat,"$50,000-$75,000",,White,Midwest
+POLIDEOLOGY,2,2,"135293, 639116","Moderate, Conservative",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Independent,"$100,000 or more",,White,Midwest
+POLIDEOLOGY,2,2,"605095, 613053","Conservative, Moderate",50-64,Male,High school graduate,Yes,Divorced,Nothing in particular,Never,Independent,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,2,2,"201801066975, 201801136559","Conservative, Very conservative",50-64,Male,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$75,000-$100,000",,White,Midwest
+POLIDEOLOGY,2,3,"314393, 201801137715, 201801139164","Very liberal, Liberal, Liberal",50-64,Male,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",,White,Midwest
+POLIDEOLOGY,2,2,"201801130106, 201801139979","Moderate, Liberal",65+,Female,High school graduate,Yes,Married,Protestant,Seldom,Independent,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,2,2,"189053, 201801137120","Conservative, Moderate",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",,White,Midwest
+POLIDEOLOGY,2,2,"285723, 201801149467","Conservative, Very conservative",65+,Female,"Some college, no degree",Yes,Widowed,Protestant,Once a week,Republican,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,2,2,"201801135487, 201801147739","Very conservative, Conservative",65+,Male,High school graduate,Yes,Married,Protestant,Once a week,Independent,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,2,2,"201501122694, 201501681268","Moderate, Liberal",65+,Male,High school graduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,2,2,"201501137351, 201801037927","Moderate, Very conservative",65+,Male,"Some college, no degree",Yes,Married,Roman Catholic,Once a week,Republican,"$30,000-$50,000",,White,Midwest
+POLIDEOLOGY,2,2,"201801087258, 201801087528","Liberal, Very liberal",30-49,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",,White,Northeast
+POLIDEOLOGY,2,2,"214562, 201501648401","Liberal, Conservative",30-49,Male,College graduate/some postgrad,Yes,Married,Nothing in particular,Seldom,Independent,"$100,000 or more",,White,Northeast
+POLIDEOLOGY,2,3,"648860, 201501732248, 201501734175","Very liberal, Very liberal, Liberal",30-49,Male,Postgraduate,Yes,Married,Agnostic,Never,Democrat,"$100,000 or more",,White,Northeast
+POLIDEOLOGY,2,2,"117214, 201801073137","Very liberal, Liberal",30-49,Male,Postgraduate,Yes,Married,Agnostic,Seldom,Independent,"$75,000-$100,000",,White,Northeast
+POLIDEOLOGY,2,2,"691042, 201501603919","Very conservative, Conservative",30-49,Male,Postgraduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",,White,Northeast
+POLIDEOLOGY,2,2,"103677, 644602","Very conservative, Conservative",30-49,Male,"Some college, no degree",Yes,Married,Roman Catholic,A few times a year,Republican,"$100,000 or more",,White,Northeast
+POLIDEOLOGY,2,3,"145364, 627838, 692848","Conservative, Conservative, Very conservative",50-64,Male,High school graduate,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",,White,Northeast
+POLIDEOLOGY,2,2,"327776, 201801076563","Liberal, Moderate",65+,Female,High school graduate,Yes,Married,Roman Catholic,Seldom,Independent,"$50,000-$75,000",,White,Northeast
+POLIDEOLOGY,2,2,"201501229317, 201801036406","Liberal, Very liberal",18-29,Female,Associate's degree,Yes,Never been married,Protestant,A few times a year,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,2,2,"201801101943, 201801163349","Moderate, Very liberal",18-29,Female,"Some college, no degree",Yes,Living with a partner,Nothing in particular,Seldom,Other,"Less than $30,000",,White,South
+POLIDEOLOGY,2,2,"201801048284, 201801101625","Moderate, Conservative",18-29,Male,"Some college, no degree",Yes,Never been married,Protestant,A few times a year,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,2,2,"147121, 201801116863","Moderate, Very conservative",30-49,Female,High school graduate,Yes,Divorced,Protestant,Seldom,Other,"Less than $30,000",,White,South
+POLIDEOLOGY,2,2,"684297, 201801098386","Refused, Conservative",30-49,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201801100543, 201801117121","Very conservative, Conservative",30-49,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"109143, 201801153646","Conservative, Moderate",30-49,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",,White,South
+POLIDEOLOGY,2,2,"201801037020, 201801052144","Conservative, Very conservative",30-49,Female,High school graduate,Yes,Never been married,Nothing in particular,A few times a year,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,2,2,"688663, 201701685004","Conservative, Very liberal",30-49,Female,Less than high school,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",,White,South
+POLIDEOLOGY,2,2,"201801043324, 201801050585","Very liberal, Moderate",30-49,Female,Less than high school,Yes,Never been married,Protestant,Once a week,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,2,2,"674254, 201801101686","Very liberal, Liberal",30-49,Female,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"279742, 670667","Liberal, Moderate",30-49,Female,Postgraduate,Yes,Married,Protestant,A few times a year,Democrat,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201801049370, 201801058578","Moderate, Liberal",30-49,Female,"Some college, no degree",Yes,Never been married,Protestant,A few times a year,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,2,2,"682887, 201801155659","Conservative, Liberal",30-49,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Independent,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"675850, 201501602033","Very conservative, Conservative",30-49,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"112984, 201801117867","Very liberal, Liberal",50-64,Female,College graduate/some postgrad,Yes,Married,Nothing in particular,Never,Democrat,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201801064540, 201801095960","Moderate, Conservative",50-64,Female,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"610318, 692611","Very conservative, Moderate",50-64,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201501688533, 201801069577","Conservative, Moderate",50-64,Female,High school graduate,Yes,Married,Protestant,A few times a year,Republican,"$75,000-$100,000",,White,South
+POLIDEOLOGY,2,2,"201501623064, 201801119337","Conservative, Moderate",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Independent,"$50,000-$75,000",,White,South
+POLIDEOLOGY,2,3,"201501696206, 201801099674, 201801154866","Very conservative, Very conservative, Conservative",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",,White,South
+POLIDEOLOGY,2,2,"201801048193, 201801119741","Moderate, Conservative",50-64,Female,High school graduate,Yes,Married,Protestant,Seldom,Republican,"$50,000-$75,000",,White,South
+POLIDEOLOGY,2,4,"201701650473, 201801035247, 201801044577, 201801106555","Conservative, Moderate, Conservative, Moderate",50-64,Female,High school graduate,Yes,Never been married,Protestant,Once a week,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,3,3,"201701603484, 201801012248, 201801051537","Liberal, Moderate, Conservative",50-64,Female,High school graduate,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",,Black,South
+POLIDEOLOGY,2,2,"201801063264, 201801107965","Refused, Moderate",50-64,Female,"Some college, no degree",Yes,Never been married,Protestant,Once a week,Democrat,Refused,,Black,South
+POLIDEOLOGY,2,3,"112987, 201801057976, 201801099717","Conservative, Very conservative, Conservative",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"604819, 201801161524","Moderate, Very conservative",50-64,Male,College graduate/some postgrad,Yes,Married,Protestant,Seldom,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"665309, 201501147228","Very conservative, Conservative",50-64,Male,College graduate/some postgrad,Yes,Married,Roman Catholic,Once a week,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201801116483, 201801116588","Conservative, Very conservative",50-64,Male,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$75,000-$100,000",,White,South
+POLIDEOLOGY,2,2,"201801155356, 201801160415","Conservative, Moderate",65+,Female,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201501265686, 201801159040","Very conservative, Conservative",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",,White,South
+POLIDEOLOGY,2,2,"321025, 201501118947","Conservative, Very conservative",65+,Female,Less than high school,Yes,Widowed,Protestant,More than once a week,Republican,"Less than $30,000",,White,South
+POLIDEOLOGY,2,3,"201701225857, 201801104051, 201801105891","Moderate, Conservative, Moderate",65+,Male,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Independent,"$75,000-$100,000",,White,South
+POLIDEOLOGY,2,2,"292740, 714240","Conservative, Moderate",65+,Male,High school graduate,Yes,Married,Protestant,Once or twice a month,Republican,"$30,000-$50,000",,White,South
+POLIDEOLOGY,2,2,"201701276587, 201801064970","Moderate, Liberal",65+,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201501657917, 201801057037","Conservative, Moderate",65+,Male,Postgraduate,Yes,Married,Protestant,Once a week,Independent,"$50,000-$75,000",,White,South
+POLIDEOLOGY,2,2,"201701615366, 201801094481","Moderate, Conservative",65+,Male,Postgraduate,Yes,Married,Roman Catholic,A few times a year,Independent,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"207573, 654117","Conservative, Moderate",65+,Male,"Some college, no degree",Yes,Divorced,Protestant,Seldom,Republican,"$100,000 or more",,White,South
+POLIDEOLOGY,2,2,"201801006662, 201801007475","Liberal, Moderate",18-29,Female,High school graduate,Yes,Married,Roman Catholic,A few times a year,Democrat,"$30,000-$50,000",,White,West
+POLIDEOLOGY,2,2,"201801164717, 201801168093","Very liberal, Liberal",18-29,Female,High school graduate,Yes,Never been married,Agnostic,Never,Democrat,"$75,000-$100,000",,White,West
+POLIDEOLOGY,2,2,"201501728967, 201801165566","Moderate, Liberal",18-29,Male,"Some college, no degree",Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",,White,West
+POLIDEOLOGY,2,2,"201801167822, 201801168353","Liberal, Moderate",30-49,Female,College graduate/some postgrad,Yes,Married,Mormon,Once a week,Democrat,"$100,000 or more",,White,West
+POLIDEOLOGY,2,2,"201801165413, 201801186972","Very liberal, Liberal",30-49,Female,"Some college, no degree",Yes,Married,Atheist,Never,Democrat,"$50,000-$75,000",,White,West
+POLIDEOLOGY,2,2,"724791, 201801031871","Liberal, Very liberal",30-49,Male,Postgraduate,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",,White,West
+POLIDEOLOGY,2,2,"201801167254, 201801182160","Liberal, Moderate",30-49,Male,Postgraduate,Yes,Married,Nothing in particular,Never,Independent,"$100,000 or more",,White,West
+POLIDEOLOGY,2,2,"114970, 201701645082","Liberal, Very liberal",50-64,Female,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Democrat,"$100,000 or more",,White,West
+POLIDEOLOGY,2,2,"201801071140, 201801071206","Very liberal, Very conservative",50-64,Female,High school graduate,Yes,Married,Nothing in particular,Never,Democrat,"$50,000-$75,000",,White,West
+POLIDEOLOGY,2,2,"201801169947, 201801184135","Conservative, Very conservative",50-64,Male,High school graduate,Yes,Married,Protestant,Once a week,Republican,"$100,000 or more",,White,West
+POLIDEOLOGY,2,2,"303338, 201701730879","Moderate, Conservative",65+,Female,High school graduate,Yes,Widowed,Protestant,Once a week,Republican,"Less than $30,000",,White,West
+RACE,2,2,"201501654483, 201801007712","Hispanic, White",30-49,Female,Postgraduate,Yes,Married,Agnostic,Never,Democrat,"$100,000 or more",Moderate,,Northeast
+RACE,2,2,"201801040128, 201801090744","Black, White",50-64,Female,College graduate/some postgrad,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,,Northeast
+RACE,2,2,"201701277969, 201801040835","White, Black",50-64,Female,High school graduate,Yes,Never been married,Nothing in particular,Never,Democrat,"Less than $30,000",Moderate,,Northeast
+RACE,2,2,"201701655336, 201801162841","White, Black",18-29,Female,High school graduate,Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,,South
+RACE,2,2,"702902, 201801043987","White, Hispanic",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,Once or twice a month,Independent,"$100,000 or more",Conservative,,South
+RACE,2,2,"201801115933, 201801152767","White, Mixed Race",30-49,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$30,000-$50,000",Conservative,,South
+RACE,2,3,"201501603147, 201801052505, 201801118503","Black, Black, White",30-49,Female,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,,South
+RACE,2,2,"201801049370, 201801116445","Black, White",30-49,Female,"Some college, no degree",Yes,Never been married,Protestant,A few times a year,Democrat,"Less than $30,000",Moderate,,South
+RACE,2,2,"201801043970, 201801116597","Mixed Race, White",30-49,Male,College graduate/some postgrad,Yes,Married,Atheist,Never,Democrat,"$100,000 or more",Liberal,,South
+RACE,2,2,"201701611060, 201801104346","Black, White",30-49,Male,Postgraduate,Yes,Married,Protestant,Once a week,Democrat,"$100,000 or more",Moderate,,South
+RACE,2,2,"201501739890, 201801159545","Hispanic, White",50-64,Female,Associate's degree,Yes,Divorced,Protestant,Once a week,Independent,"Less than $30,000",Conservative,,South
+RACE,2,2,"669822, 201501623064","Black, White",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Independent,"$50,000-$75,000",Conservative,,South
+RACE,2,2,"201801036043, 201801058091","Refused, Black",50-64,Female,"Some college, no degree",Yes,Never been married,Protestant,Seldom,Democrat,"Less than $30,000",Moderate,,South
+RACE,2,2,"201801044777, 201801153722","Black, White",65+,Male,"Some college, no degree",Yes,Married,Protestant,More than once a week,Democrat,"$30,000-$50,000",Liberal,,South
+RACE,2,2,"201501698775, 201801006294","White, Hispanic",30-49,Female,College graduate/some postgrad,Yes,Married,Protestant,A few times a year,Democrat,"$100,000 or more",Moderate,,West
+RACE,2,2,"201801175384, 201801182160","Asian, White",30-49,Male,Postgraduate,Yes,Married,Nothing in particular,Never,Independent,"$100,000 or more",Moderate,,West
+RACE,2,2,"201501701572, 201801142263","Hispanic, White",30-49,Male,Postgraduate,Yes,Married,Roman Catholic,Once a week,Democrat,"$100,000 or more",Liberal,,West
+RACE,2,2,"653961, 201801186237","White, Asian",50-64,Female,High school graduate,Yes,Married,Protestant,More than once a week,Republican,"$50,000-$75,000",Conservative,,West
