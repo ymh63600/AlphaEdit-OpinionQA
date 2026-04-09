@@ -58,5 +58,16 @@ To summarize the results, you can use [`experiments/summarize.py`](experiments/s
 
     python -m experiments/summarize.py --dir_name=AlphaEdit --runs=run_<run1>,run_<run2>
 
+#### 3. OpinionQA evaluation
+
+To evaluate test set
+ 
+```python eval.py```
+
+To summarize  the results
+
+```python summary.py```
+
+
 ## Acknowledgment
 Our code is based on  [``MEMIT``](https://github.com/kmeng01/memit.git) and [``EMMET``](https://github.com/scalable-model-editing/unified-model-editing.git).
