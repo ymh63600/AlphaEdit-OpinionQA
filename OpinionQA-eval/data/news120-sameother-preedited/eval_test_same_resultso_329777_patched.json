@@ -1,0 +1,309 @@
+{
+    "metadata": {
+        "QKEY": "329777.0",
+        "LANGUAGE_W26": "English",
+        "SHOOTAGE_1_W26": "nan",
+        "OWNAGE_1_W26": "nan",
+        "CREGION": "West",
+        "AGE": "65+",
+        "SEX": "Male",
+        "EDUCATION": "Less than high school",
+        "F_RACECMB_RECRUITMENT": "White",
+        "F_RACETHN_RECRUITMENT": "White non-Hispanic",
+        "CITIZEN": "Yes",
+        "MARITAL": "Widowed",
+        "RELIG": "Nothing in particular",
+        "RELIGATTEND": "Seldom",
+        "POLPARTY": "Republican",
+        "INCOME": "Less than $30,000",
+        "POLIDEOLOGY": "Moderate",
+        "RACE": "White"
+    },
+    "results": [
+        {
+            "case_id": "INFOCONFUSEc_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much do you think the following type of news and information leaves Americans confused about the basic facts of current issues and events? Breaking information that is published before everything is verified (Options: A great deal, Some, Not much, Not at all, Refused)\nAnswer:",
+            "target": "Some",
+            "model_answer": "A great deal",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOCONFUSEc_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "INFOCHALd_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much of a challenge do you think Digital technology is in addressing made-up news and information? (Options: A very big challenge, A moderately big challenge, A small challenge, Not a challenge at all, Refused)\nAnswer:",
+            "target": "A very big challenge",
+            "model_answer": "A very big challenge",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOCHALd_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "PUBLICDATA_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Today a wide range of information about people is searchable online. Do you think it is more important for people to have the ability to (Options: Discover potentially useful information about others, Keep things about themselves that might be potentially damaging from being searchable online, Refused)\nAnswer:",
+            "target": "Keep things about themselves that might be potentially damaging from being searchable online",
+            "model_answer": "Discover potentially useful information about others",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "PUBLICDATA_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "FACE3b_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much, if at all, do you trust the following groups to use facial recognition technology responsibly? Technology companies (Options: A great deal, Somewhat, Not too much, Not at all, Refused)\nAnswer:",
+            "target": "Not at all",
+            "model_answer": "Not too much",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "FACE3b_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "LOYALTY_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Do you belong to any loyalty programs of a grocery store or a supermarket that you frequent? (Options: Yes, belong to this, No, do not belong to this, Refused)\nAnswer:",
+            "target": "No, do not belong to this",
+            "model_answer": "Yes, belong to this",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "LOYALTY_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "INFOCONFUSEe_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much do you think the following type of news and information leaves Americans confused about the basic facts of current issues and events? A video or image that is altered or made up to mislead the public (Options: A great deal, Some, Not much, Not at all, Refused)\nAnswer:",
+            "target": "Some",
+            "model_answer": "A great deal",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOCONFUSEe_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "CONCERNGRPa_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How concerned are you, if at all, about how much personal information law enforcement agencies might know about you? (Options: Concerned a lot, Concerned a little, Not concerned, Refused)\nAnswer:",
+            "target": "Concerned a lot",
+            "model_answer": "Concerned a lot",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "CONCERNGRPa_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "INFOWHYd_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much do you think to be funny is a reason why made-up news and information is created? (Options: Major reason, Minor reason, Not a reason, Refused)\nAnswer:",
+            "target": "Not a reason",
+            "model_answer": "Minor reason",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOWHYd_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "MADEUPIMPd_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Overall, how much of an impact do you think made-up news and information has on journalists' ability to get the information they need for their stories? (Options: Big impact, Moderate impact, Small impact, No impact at all, Refused)\nAnswer:",
+            "target": "Big impact",
+            "model_answer": "Moderate impact",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "MADEUPIMPd_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "NEWSPROBb_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much of a problem is the public's difficulty distinguishing facts from opinions when it comes to how the public stays informed about the basic facts of current issues and events? (Options: A very big problem, A moderately big problem, A small problem, Not a problem at all, Refused)\nAnswer:",
+            "target": "A moderately big problem",
+            "model_answer": "A very big problem",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "NEWSPROBb_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "INFOCHALe_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much of a challenge do you think the ability to make money from it is in addressing made-up news and information? (Options: A very big challenge, A moderately big challenge, A small challenge, Not a challenge at all, Refused)\nAnswer:",
+            "target": "A very big challenge",
+            "model_answer": "A very big challenge",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOCHALe_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "SOURCESKEPc_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much do you trust the accuracy of the news and information that you get from political leaders and public officials (Options: A great deal, Some, Not much, Not at all, Refused)\nAnswer:",
+            "target": "Not much",
+            "model_answer": "Not much",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "SOURCESKEPc_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "INFORESTRICTb_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Which comes closer to your view about the following type of news and information? Satire about an issue or event (Options: The freedom to publish and access it should be protected, Steps should be taken to restrict it, Refused)\nAnswer:",
+            "target": "The freedom to publish and access it should be protected",
+            "model_answer": "The freedom to publish and access it should be protected",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFORESTRICTb_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "SOLVPROBf_W41",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:In the future, what kind of an impact do you think the news media will have in solving the biggest problems facing the country? (Options: A very positive impact, A somewhat positive impact, A somewhat negative impact, A very negative impact, Refused)\nAnswer:",
+            "target": "A very negative impact",
+            "model_answer": "A very positive impact",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W41",
+            "question_id": "SOLVPROBf_W41",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "future"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media",
+                "future"
+            ]
+        },
+        {
+            "case_id": "RQ3_F1Bd_W42",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Is what you know about environmental research scientists because you have heard or read about this in the news (Options: Yes, have heard or read about this in the news, No, have not heard or read about this in the news, Refused)\nAnswer:",
+            "target": "Yes, have heard or read about this in the news",
+            "model_answer": "Yes, have heard or read about this in the news",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W42",
+            "question_id": "RQ3_F1Bd_W42",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "science"
+            ],
+            "topic_fg": [
+                "science: science other",
+                "news, social media, data, privacy: news and social media",
+                "science: climate"
+            ]
+        },
+        {
+            "case_id": "RQ3_F1Cd_W42",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Is what you know about nutrition research scientists because you have heard or read about this in the news (Options: Yes, have heard or read about this in the news, No, have not heard or read about this in the news, Refused)\nAnswer:",
+            "target": "Yes, have heard or read about this in the news",
+            "model_answer": "Yes, have heard or read about this in the news",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W42",
+            "question_id": "RQ3_F1Cd_W42",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "science"
+            ],
+            "topic_fg": [
+                "science: science other",
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "GOVREGV1_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much government regulation of what companies can do with their customers' personal information do you think there should be? (Options: More regulation, Less regulation, About the same amount, Refused)\nAnswer:",
+            "target": "More regulation",
+            "model_answer": "More regulation",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "GOVREGV1_W49",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "political issues"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy",
+                "political issues: government control"
+            ]
+        },
+        {
+            "case_id": "DATAUSEa_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Do you think the following uses of data/information are acceptable or unacceptable? The government collecting data about all Americans to assess who might be a potential terrorist threat (Options: Acceptable, Unacceptable, Not sure, Refused)\nAnswer:",
+            "target": "Acceptable",
+            "model_answer": "Acceptable",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "DATAUSEa_W49",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "crime/security"
+            ],
+            "topic_fg": [
+                "crime/security: terrorism",
+                "news, social media, data, privacy: data and privacy"
+            ]
+        }
+    ],
+    "summary": {
+        "total": 18,
+        "accuracy": 0.5
+    }
+}

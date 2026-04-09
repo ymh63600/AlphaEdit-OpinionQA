@@ -1,0 +1,25 @@
+﻿topic_cg,Cases,Num_Before,Acc_Before,Num_After,Acc_After,Down/Up
+Overall,1154,465,40.29,532,46.1,5.81
+science,113,50,44.25,68,60.18,15.93
+race,97,20,20.62,24,24.74,4.12
+political issues,89,42,47.19,46,51.69,4.5
+"corporations, banks, technology and automation",83,26,31.33,30,36.14,4.81
+crime/security,67,41,61.19,42,62.69,1.5
+gender & sexuality,66,32,48.48,41,62.12,13.64
+economy and inequality,63,19,30.16,24,38.1,7.94
+job/career,63,26,41.27,27,42.86,1.59
+relationships and family,62,24,38.71,27,43.55,4.84
+community health,61,25,40.98,29,47.54,6.56
+global attitudes and foreign policy,59,29,49.15,29,49.15,0.0
+future,53,15,28.3,22,41.51,13.21
+discrimination,51,16,31.37,15,29.41,-1.96
+personal finance,38,13,34.21,19,50.0,15.79
+"news, social media, data, privacy",32,16,50.0,13,40.62,-9.38
+healthcare system,28,11,39.29,12,42.86,3.57
+personal health,25,13,52.0,12,48.0,-4.0
+education,22,5,22.73,8,36.36,13.63
+self-perception and values,21,14,66.67,15,71.43,4.76
+status in life,20,9,45.0,9,45.0,0.0
+leadership,16,9,56.25,9,56.25,0.0
+immigration,14,5,35.71,4,28.57,-7.14
+religion,11,5,45.45,7,63.64,18.19

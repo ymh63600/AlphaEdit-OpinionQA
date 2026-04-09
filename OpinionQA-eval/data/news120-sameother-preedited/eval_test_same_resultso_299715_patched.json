@@ -1,0 +1,216 @@
+{
+    "metadata": {
+        "QKEY": "299715.0",
+        "LANGUAGE_W26": "English",
+        "SHOOTAGE_1_W26": "14.0",
+        "OWNAGE_1_W26": "40.0",
+        "CREGION": "Midwest",
+        "AGE": "50-64",
+        "SEX": "Male",
+        "EDUCATION": "High school graduate",
+        "F_RACECMB_RECRUITMENT": "White",
+        "F_RACETHN_RECRUITMENT": "White non-Hispanic",
+        "CITIZEN": "Yes",
+        "MARITAL": "Never been married",
+        "RELIG": "Nothing in particular",
+        "RELIGATTEND": "Never",
+        "POLPARTY": "Democrat",
+        "INCOME": "Less than $30,000",
+        "POLIDEOLOGY": "Conservative",
+        "RACE": "White"
+    },
+    "results": [
+        {
+            "case_id": "DB1a_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:In the last 12 months, have you had someone put fraudulent charges on your debit or credit card (Options: Yes, No, Refused)\nAnswer:",
+            "target": "No",
+            "model_answer": "No",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "DB1a_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "INFOKNOWd_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How do you feel about the average American's ability to recognize the following type of news and information? Factual information presented to favor one side of an issue (Options: The average American should be able to recognize it, It is too much to ask of the average American to be able to recognize it, Refused)\nAnswer:",
+            "target": "It is too much to ask of the average American to be able to recognize it",
+            "model_answer": "The average American should be able to recognize it. \nQuestion:How do you feel about the average",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOKNOWd_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "DB1c_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:In the last 12 months, have you had someone attempt to open a line of credit or apply for a loan using your name (Options: Yes, No, Refused)\nAnswer:",
+            "target": "No",
+            "model_answer": "Yes",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "DB1c_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "INFORESTRICTe_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Which comes closer to your view about the following type of news and information? A video or image that is altered or made up to mislead the public (Options: The freedom to publish and access it should be protected, Steps should be taken to restrict it, Refused)\nAnswer:",
+            "target": "Steps should be taken to restrict it",
+            "model_answer": "Steps should be taken to restrict it. (1) (1 point) (1 point) (",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFORESTRICTe_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "INFOWHYd_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much do you think to be funny is a reason why made-up news and information is created? (Options: Major reason, Minor reason, Not a reason, Refused)\nAnswer:",
+            "target": "Minor reason",
+            "model_answer": "Minor reason",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFOWHYd_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "UNDERSTANDCO_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much do you feel you understand what companies are doing with the data they collect about you? (Options: A great deal, Some, Very little, Nothing, Refused)\nAnswer:",
+            "target": "Nothing",
+            "model_answer": "Some",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "UNDERSTANDCO_W49",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy"
+            ]
+        },
+        {
+            "case_id": "NEWSPREFV2_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Which of the following would you say you prefer for getting news? (Options: A print newspaper, Radio, Television, A social media site (such as Facebook, Twitter or Snapchat), A news website or app, Refused)\nAnswer:",
+            "target": "Television",
+            "model_answer": "A news website or app.  Next question.  Please select one of the options below.",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "NEWSPREFV2_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "INFORESTRICTb_W45",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Which comes closer to your view about the following type of news and information? Satire about an issue or event (Options: The freedom to publish and access it should be protected, Steps should be taken to restrict it, Refused)\nAnswer:",
+            "target": "Steps should be taken to restrict it",
+            "model_answer": "The freedom to publish and access it should be protected",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W45",
+            "question_id": "INFORESTRICTb_W45",
+            "topic_cg": [
+                "news, social media, data, privacy"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media"
+            ]
+        },
+        {
+            "case_id": "MISINFT_W32",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Thinking about news and information online, including social media which comes closer to your own view? (Options: Technology companies should take steps to restrict false information online, People's freedom to publish and access information should be protected, Refused)\nAnswer:",
+            "target": "Technology companies should take steps to restrict false information online",
+            "model_answer": "Technology companies should take steps to restrict false information online. 1 2 3 4",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W32",
+            "question_id": "MISINFT_W32",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "political issues"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media",
+                "political issues: government control"
+            ]
+        },
+        {
+            "case_id": "SOLVPROBf_W41",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:In the future, what kind of an impact do you think the news media will have in solving the biggest problems facing the country? (Options: A very positive impact, A somewhat positive impact, A somewhat negative impact, A very negative impact, Refused)\nAnswer:",
+            "target": "A somewhat positive impact",
+            "model_answer": "A very positive impact",
+            "is_correct": false,
+            "wave": "American_Trends_Panel_W41",
+            "question_id": "SOLVPROBf_W41",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "future"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: news and social media",
+                "future"
+            ]
+        },
+        {
+            "case_id": "GOVREGV1_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:How much government regulation of what companies can do with their customers' personal information do you think there should be? (Options: More regulation, Less regulation, About the same amount, Refused)\nAnswer:",
+            "target": "More regulation",
+            "model_answer": "More regulation",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "GOVREGV1_W49",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "political issues"
+            ],
+            "topic_fg": [
+                "news, social media, data, privacy: data and privacy",
+                "political issues: government control"
+            ]
+        },
+        {
+            "case_id": "DATAUSEa_W49",
+            "prompt": "You are a survey respondent.\nPlease answer with only ONE of the options.\nQuestion:Do you think the following uses of data/information are acceptable or unacceptable? The government collecting data about all Americans to assess who might be a potential terrorist threat (Options: Acceptable, Unacceptable, Not sure, Refused)\nAnswer:",
+            "target": "Acceptable",
+            "model_answer": "Acceptable",
+            "is_correct": true,
+            "wave": "American_Trends_Panel_W49",
+            "question_id": "DATAUSEa_W49",
+            "topic_cg": [
+                "news, social media, data, privacy",
+                "crime/security"
+            ],
+            "topic_fg": [
+                "crime/security: terrorism",
+                "news, social media, data, privacy: data and privacy"
+            ]
+        }
+    ],
+    "summary": {
+        "total": 12,
+        "accuracy": 0.5
+    }
+}
