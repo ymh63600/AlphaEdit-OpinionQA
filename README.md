@@ -28,17 +28,18 @@ After decompressing it and saving it to the "./data/stats" folder.
 ### An example for editing Llama3 (8B) on counterfact dataset using AlphaEdit
 #### 1. Edit Llama3 (8B) model 
  
-    python3 -m experiments.evaluate     --alg_name=AlphaEdit     --model_name=meta-llama/Meta-Llama-3-8B-Instruct     --hparams_fname=Llama3-8B.json --ds_name=mcf --dataset_size_limit=2000    --num_edits=100 --downstream_eval_steps=5
+    python3 -m experiments.evaluate     --alg_name=AlphaEdit     --model_name=meta-llama/Llama-3.1-8B-Instruct     --hparams_fname=Llama3.1-8B.json --ds_name=opinionqa --dataset_size_limit=2000    --num_edits=100 --downstream_eval_steps=5 
 
 This command runs an evaluation script for the AlphaEdit algorithm using the Llama3-8b-instruct. Below are the explanations for each argument:
 
 - `--alg_name=AlphaEdit`: Specifies the name of the algorithm being used, which is AlphaEdit in this case.
-- `--model_name=meta-llama/Meta-Llama-3-8B-Instruct`: Indicates the name of the model being evaluated, here it is Llama-3-8B-Instruct.
-- `--hparams_fname=Llama3-8B.json`: Points to the JSON file containing hyperparameters specific to the Llama-3-8B-Instruct model.
+- `--model_name=meta-llama/Llama-3.1-8B-Instruct`: Indicates the name of the model being evaluated, here it is Llama-3.1-8B-Instruct.
+- `--hparams_fname=Llama3.1-8B.json`: Points to the JSON file containing hyperparameters specific to the Llama-3-8B-Instruct model.
 - `--ds_name=mcf`: Specifies the dataset name, in this case, "mcf".
 - `--dataset_size_limit=2000`: Sets the total number of editing samples to 2000.
 - `--num_edits=100`: Defines the batch size for each round of editing, meaning 100 edits will be performed in each batch. 
 - `--downstream_eval_steps=5`: indicates that a test of general capabilities is conducted after every 5 rounds of editing.
+- `--ds_path=edit_set_120_692984.json`: Specify the JSON file name of the OpinionQA dataset
 
 Results from each run are stored at `results/<method_name>/run_<run_id>` in a specific format:
 ```bash

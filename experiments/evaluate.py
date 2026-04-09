@@ -72,6 +72,7 @@ def main(
     dir_name: str,
     num_edits: int = 1,
     use_cache: bool = False,
+    ds_path: str = None,
 ):
     # Set algorithm-specific variables
     params_class, apply_algo = ALG_DICT[alg_name]
@@ -135,7 +136,13 @@ def main(
         assert ds_name != "cf", f"{ds_name} does not support multiple edits"
 
     ds_class, ds_eval_method = DS_DICT[ds_name]
-    ds = ds_class(DATA_DIR, tok=tok, size=dataset_size_limit)
+    
+    # ds = ds_class(DATA_DIR, tok=tok, size=dataset_size_limit)
+    if ds_name == "opinionqa" and ds_path is not None:
+        print(f"Loading custom OpinionQA file: {ds_path}")
+        ds = ds_class(DATA_DIR, tok=tok, size=dataset_size_limit, data_rel_path=ds_path)
+    else:
+        ds = ds_class(DATA_DIR, tok=tok, size=dataset_size_limit)
     # Get cache templates
     cache_template = None
     if use_cache:
@@ -518,6 +525,12 @@ if __name__ == "__main__":
         help="Dataset to perform evaluations on. Either CounterFact (cf), MultiCounterFact (mcf), or zsRE (zsre).",
     )
     parser.add_argument(
+        "--ds_path",
+        type=str,
+        default=None,
+        help="Specify the JSON file name of the OpinionQA dataset (e.g., edit_set_120_692984.json)",
+    )
+    parser.add_argument(
         "--continue_from_run",
         type=str,
         default=None,
@@ -583,4 +596,5 @@ if __name__ == "__main__":
         dir_name=args.alg_name,
         num_edits=args.num_edits,
         use_cache=args.use_cache,
+        ds_path=args.ds_path,
     )
